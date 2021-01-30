@@ -1,4 +1,5 @@
-theme: jekyll-theme-tactile
-title: Tobias Wildi
-description: Dozent für Archivwissenschaft
-show_downloads: false
+# theme: jekyll-theme-tactile
+remote_theme: alshedivat/al-folio
+scholar:
+  last_name: Wildi
+  first_name: Tobias
