@@ -1,5 +1,1 @@
-# theme: jekyll-theme-tactile
-remote_theme: fawcettc/academic-website
-scholar:
-  last_name: Wildi
-  first_name: Tobias
+remote_theme: fawcettc/wildit/theme
