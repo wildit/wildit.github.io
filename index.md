@@ -37,27 +37,27 @@ Dr. Tobias Wildi ist Dozent für Archivwissenschaft an der [Fachhochschule Graub
 
 *IndustrieWelt. Historische Werkfotos der BBC 1890–1980.* Zürich 2006 (zusammen mit Norbert Lang).
 
-Dissertation: *Der Traum vom eigenen Reaktor.* Die schweizerische Atomtechnologieentwicklung 1945–1969. Zürich 2003.
+Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection.ethz.ch/handle/20.500.11850/88080) Die schweizerische Atomtechnologieentwicklung 1945–1969. Zürich 2003.
 
 
 ### Aufsätze (Auswahl)
-*Ein Bergungsort für digitale Kulturgüter.* Langfristiger Schutz für eine neue Kategorie des kulturellen Erbes. In: KGS forum Nr. 35/2021, 17–22.
+[*Ein Bergungsort für digitale Kulturgüter.*](https://www.babs.admin.ch/content/babs-internet/de/aufgabenbabs/kgs/organisation/_jcr_content/contentPar/tabs/items/downloads/tabPar/downloadlist/downloadItems/118_1583335484119.download/Studie_Bergungsort_digitale_Kulturgueter_2020_03_02.pdf) Langfristiger Schutz für eine neue Kategorie des kulturellen Erbes. In: KGS forum Nr. 35/2021, 17–22.
 
-*Ein digitales Gedächtnis? Digitale Unterlagen archivieren und nutzbar halten.* In: Ohne Gedächtnis keine Zukunft. 20 Jahre Archiv demokratischer Sozialismus der Rosa-Luxemburg-Stiftung. Berlin 2019, 99–102. (zusammen mit Andreas Steigmeier).
+[*Ein digitales Gedächtnis? Digitale Unterlagen archivieren und nutzbar halten.*](https://www.rosalux.de/publikation/id/41364/ohne-gedaechtnis-keine-zukunft?cHash=2e9f8969f033309c6ae9e21b490d4e37) In: Ohne Gedächtnis keine Zukunft. 20 Jahre Archiv demokratischer Sozialismus der Rosa-Luxemburg-Stiftung. Berlin 2019, 99–102. (zusammen mit Andreas Steigmeier).
 
-*The Matterhorn RDF Data Model. Formalizing Archival Metadata With SHACL.* Peer-Reviewed-Paper im Rahmen der iPres 2019-Tagung (zusammen mit Alain Dubois).
+[*The Matterhorn RDF Data Model. Formalizing Archival Metadata With SHACL.*](https://osf.io/egchj/) Peer-Reviewed-Paper im Rahmen der iPres 2019-Tagung (zusammen mit Alain Dubois).
 
-*Archivarinnen und Archivare in der digitalen Welt.* Des archivistes dans le monde numérique. Publikation zu 15 Jahre Docuteam. Baden, 2018 (zusammen mit Andreas Steigmeier).
+[*Archivarinnen und Archivare in der digitalen Welt.*](https://www.docuteam.ch/wp-content/uploads/2018/06/docuteam_15-Jahre.pdf) Des archivistes dans le monde numérique. Publikation zu 15 Jahre Docuteam. Baden, 2018 (zusammen mit Andreas Steigmeier).
 
 *Digitale Fotos nutzbar halten: das OAIS-Modell.* In: Die Erhaltung von Fotografien. Memoriav-Empfehlungen 2017 (Bern 2017), Kp. 6.1, 39–44 (zusammen mit Andreas Steigmeier).
 
 *Digitale Nutzbarhaltung auf Jahrzehnte – wirtschaftlich orientiert und mit einfachen Mitteln.* In: Arbido 2014/3, Kulturerbe der Wirtschaft – kollektives Gedächtnis - Patrimoine culturel économique – mémoire collective (zusammen mit Andreas Steigmeier).
 
-*Normen und Standards als Synergiepotenziale in der digitalen Archivierung. *In: Arbido 2012/2, 13–15, Normen und Standards.
+*Normen und Standards als Synergiepotenziale in der digitalen Archivierung.* In: Arbido 2012/2, 13–15, Normen und Standards.
 
 *Unternehmen in der Geschichtsschreibung.* In: Unternehmensarchive - ein Kulturgut? Beiträge zur Arbeitstagung Unternehmensarchive und Unternehmensgeschichte. Hg. Schweizerisches Wirtschaftsarchiv / VSA. Baden 2006, 19–23 (zusammen mit Patrick Kupper).
 
-*Unternehmensarchive nicht nur «retten», sondern umfassend nutzen. *In: Unternehmens­archive - ein Kulturgut? Beiträge zur Arbeitstagung Unternehmensarchive und Unter­nehmens­geschichte. Hg. Schweizerisches Wirtschaftsarchiv / VSA. Baden 2006, 38–44 (zusammen mit Andreas Steigmeier).
+*Unternehmensarchive nicht nur «retten», sondern umfassend nutzen.* In: Unternehmens­archive - ein Kulturgut? Beiträge zur Arbeitstagung Unternehmensarchive und Unter­nehmens­geschichte. Hg. Schweizerisches Wirtschaftsarchiv / VSA. Baden 2006, 38–44 (zusammen mit Andreas Steigmeier).
 
 
 ## Fachvorträge, Weiterbildungen
@@ -73,13 +73,13 @@ Grundkonzepte digitale Archivierung. Vortrag im Rahmen des 94. Lehrgang der Vere
 
 Mehrdimensionale Erschliessung mit Records in Contexts (RiC). Vortrag (Webinar) im Auftrag VSA-Arbeitsgruppe Normen und Standards, 1.7.2020.
 
-Studie Bergungsort für digitale Kulturgüter. Vortrag (Webinar) im Auftrag der nationalen Fachstelle Kulturgüterschutz, 25.3.2020.
+[Studie Bergungsort für digitale Kulturgüter.](https://www.babs.admin.ch/content/babs-internet/de/aufgabenbabs/kgs/organisation/_jcr_content/contentPar/tabs/items/downloads/tabPar/downloadlist/downloadItems/42_1586943908815.download/Pr%C3%A4sentation_Studie_Bergungsort_f%C3%BCr_digitale_Kulturg%C3%BCter_25_03_2020.pdf) Vortrag (Webinar) im Auftrag der nationalen Fachstelle Kulturgüterschutz, 25.3.2020.
 
 Company Town. Baden und die BBC/ABB. Vortrag im Rahmen des CAS Applied Economic History, 2. Curriculum 2019–2020, 13.12.2019.
 
 Digitale Archivierung in der Gemeindeverwaltung: Konzepte, Begriffe und pragmatische Umsetzung. Vortrag im Rahmen der IPM-Weiterbildung Archivierung für Aargauer Gemeindepersonal, 27.9.2019.
 
-The Matterhorn RDF Data Model. Formalizing Archival Metadata With SHACL. Vortrag (Paper-Präsentation) im Rahmen der iPres 2019-Tagung. Amsterdam, 19.9.2019.
+[The Matterhorn RDF Data Model. Formalizing Archival Metadata With SHACL.](https://osf.io/egchj/) Vortrag (Paper-Präsentation) im Rahmen der iPres 2019-Tagung. Amsterdam, 19.9.2019.
 
 Le Matterhorn RDF Data Model: Description archivistique et Linked Open Data. Vers quelle convergence ? Vortrag im Rahmen des Forum des Archivistes Français, « Archives et transparence, une ambition citoyenne ». St. Etienne, 5.4.2019 (mit Alain Dubois).
 
