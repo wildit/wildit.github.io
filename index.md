@@ -1,4 +1,13 @@
-Tobias Wildi ist Dozent für Archivwissenschaft an der Fachhochschule Graubünden (FHGR). Seine Forschungsinteressen beinhalten Daten- und Metadatenmodelle für Archive, die Anwendung semantischer Technologien in Gedächtnisinstitutionen und die langfristige Nutzbarhaltung des digitalen Kulturerbes. Er untersucht, welchen Beitrag Archive zum Funktionieren von Zivilgesellschaft, Wirtschaft und Demokratie generell leisten und welche Rolle sie in digitalen Transformationsprozessen einnehmnen.
+Dr. Tobias Wildi ist Dozent für Archivwissenschaft an der [Fachhochschule Graubünden (FHGR).](https://www.fhgr.ch) Seine Forschungsinteressen umfassen Daten- und Metadatenmodelle für Archive, die Anwendung semantischer Technologien in Gedächtnisinstitutionen und die langfristige Nutzbarhaltung digitaler Kulturgüter. Er untersucht, welchen Beitrag Archive zum Funktionieren von Zivilgesellschaft, Wirtschaft und Demokratie leisten und welche Rolle sie in digitalen Transformationsprozessen einnehmnen.
+
+| [Biografie](#biografie) | [Publikationen](#publikationen) | [Präsentationen](#fachvorträge,-weiterbildungen) |
+
+## Kontakt
+**Mail:** [tobias.wildi@fhgr.ch](mailto:tobias.wildi@fhgr.ch) \
+**Twitter:** [@wildit](https://www.linkedin.com/in/tobias-wildi/) \
+**Linkedin:** [https://www.linkedin.com/in/tobias-wildi/](https://www.linkedin.com/in/tobias-wildi/) \
+**Adresse:** Fachhochschule Graubünden, Schweizerisches Institut für Archivwissenschaft (SII), Ringstrasse 34, 7000 Chur \
+**Raum:** 2.09 
 
 ## Biografie
 ### Aus- und Weiterbildung
@@ -10,55 +19,45 @@ Tobias Wildi ist Dozent für Archivwissenschaft an der Fachhochschule Graubünde
 ### Berufliche Tätigkeiten
 - **seit 2021: [Fachhochschule Graubünden (FHGR)](https://www.fhgr.ch) Dozent für Archivwissenschaft** 
 - **seit 2021: [docuteam GmbH,](https://www.docuteam.ch) Verwaltungsratspräsident** 
-- **2003–2020: [docuteam GmbH,](https://www.docuteam.ch) Mitbegründer und Geschäftsführer,** tätig als Unternehmer, Fachexperte/Berater und Projektleiter. Docuteam beschäftigt heute knapp 40 Mitarbeitende an zwei Standorten in der Deutsch- und Westschweiz und gehört zu den führenden Archivdienstleistern in der Schweiz. Die Open Source-Lösung «docuteam cosmos» für digitale Langzeitarchivierung wird heute in der ganzen Schweiz und im umliegenden Ausland verwendet.
-- **2002–2003	ETH Bibliothek** Aufbau und Erschliessung des «Archivs Kernenergie Schweiz» (AKS) (Co-Projektleitung).
-- **1999–2002	ETH Zürich, Institut für Technikgeschichte.** Doktorand
-- **1998–2000	Archiv für Zeitgeschichte** wissenschaftlicher Archivar und Informatiker
+- **2003–2020: [docuteam GmbH,](https://www.docuteam.ch) Mitbegründer und Geschäftsführer,** tätig als Unternehmer, Fachexperte und Projektleiter. Docuteam beschäftigt heute knapp 40 Mitarbeitende an zwei Standorten in der Deutsch- und Westschweiz und gehört zu den führenden Archivdienstleistern in der Schweiz. Die Open Source-Lösung «docuteam cosmos» für digitale Langzeitarchivierung wird in der ganzen Schweiz und im umliegenden Ausland verwendet.
+- **1999–2002	ETH Zürich, Institut für Technikgeschichte.** Doktorand.
+- **1998–2000	Archiv für Zeitgeschichte** wissenschaftlicher Archivar und Informatiker.
 
 ### Engagements in Fachgremien
-- Seit 2020: Mitglied der kantonalen Kulturgüterschutz-Kommission des Kantons Wallis.
-- Seit 2019: Mitglied der Experts Group on Archival Description (EGAD) des International Council on Archives (ICA). Innerhalb der EGAD arbeite ich an der Entwicklung der neuen Records in Contexts-Ontologie (RiC-O).
-- Seit 2016: VSA, Mitglied der Arbeitsgruppe «Normen und Standards», Mitglied und Mitinitiator der Projektgruppe «Ensemen» zur Entwicklung eines Nachfolgestandards für die Ablieferungsschnittstelle eCH-0160.
-- Seit 2012: Mitglied der Eidgenössischen Kommission für Kulturgüterschutz, seit 2016 Präsident.
-- 2011–2015: VSA, Mitglied der Arbeitsgruppe «Archive der privaten Wirtschaft».
+- **Seit 2020:** Mitglied der kantonalen Kulturgüterschutz-Kommission des Kantons Wallis.
+- **Seit 2019:** Mitglied der Experts Group on Archival Description (EGAD) des International Council on Archives (ICA). Innerhalb der EGAD arbeite ich an der Entwicklung der neuen Records in Contexts-Ontologie (RiC-O).
+- **Seit 2016:** VSA, Mitglied der Arbeitsgruppe «Normen und Standards», Mitglied und Mitinitiator der Projektgruppe «Ensemen» zur Entwicklung eines Nachfolgestandards für die Ablieferungsschnittstelle eCH-0160.
+- **Seit 2012:** Mitglied der Eidgenössischen Kommission für Kulturgüterschutz, seit 2016 Präsident.
+- **2011–2015:** VSA, Mitglied der Arbeitsgruppe «Archive der privaten Wirtschaft».
 
 ## Publikationen
 
 ### Monographien
-Company Town. BBC/ABB und die Industriestadt Baden. Baden, 2016 (zusammen mit Bruno Meier).
+*Company Town. BBC/ABB und die Industriestadt Baden.* Baden, 2016 (zusammen mit Bruno Meier).
 
-IndustrieWelt. Historische Werkfotos der BBC 1890–1980. Zürich 2006 (zusammen mit Norbert Lang).
+*IndustrieWelt. Historische Werkfotos der BBC 1890–1980.* Zürich 2006 (zusammen mit Norbert Lang).
 
-Dissertation: Der Traum vom eigenen Reaktor. Die schweizerische Atomtechnologieentwicklung 1945–1969. Zürich 2003.
+Dissertation: *Der Traum vom eigenen Reaktor.* Die schweizerische Atomtechnologieentwicklung 1945–1969. Zürich 2003.
 
 
-### Aufsätze in Zeitschriften, Jahrbüchern und Sammelbänden
-Ein Bergungsort für digitale Kulturgüter. Langfristiger Schutz für eine neue Kategorie des kulturellen Erbes. In: KGS forum Nr. 35/2021, 17–22.
+### Aufsätze (Auswahl)
+*Ein Bergungsort für digitale Kulturgüter.* Langfristiger Schutz für eine neue Kategorie des kulturellen Erbes. In: KGS forum Nr. 35/2021, 17–22.
 
-Ein digitales Gedächtnis? Digitale Unterlagen archivieren und nutzbar halten. In: Ohne Gedächtnis keine Zukunft. 20 Jahre Archiv demokratischer Sozialismus der Rosa-Luxemburg-Stiftung. Berlin 2019, 99–102. (zusammen mit Andreas Steigmeier).
+*Ein digitales Gedächtnis? Digitale Unterlagen archivieren und nutzbar halten.* In: Ohne Gedächtnis keine Zukunft. 20 Jahre Archiv demokratischer Sozialismus der Rosa-Luxemburg-Stiftung. Berlin 2019, 99–102. (zusammen mit Andreas Steigmeier).
 
-The Matterhorn RDF Data Model. Formalizing Archival Metadata With SHACL. Peer-Reviewed-Paper im Rahmen der iPres 2019-Tagung (zusammen mit Alain Dubois).
+*The Matterhorn RDF Data Model. Formalizing Archival Metadata With SHACL.* Peer-Reviewed-Paper im Rahmen der iPres 2019-Tagung (zusammen mit Alain Dubois).
 
-Archivarinnen und Archivare in der digitalen Welt. Des archivistes dans le monde numérique. Publikation zu 15 Jahre Docuteam. Baden, 2018 (zusammen mit Andreas Steigmeier).
+*Archivarinnen und Archivare in der digitalen Welt.* Des archivistes dans le monde numérique. Publikation zu 15 Jahre Docuteam. Baden, 2018 (zusammen mit Andreas Steigmeier).
 
-Digitale Fotos nutzbar halten: das OAIS-Modell. In: Die Erhaltung von Fotografien. Memoriav-Empfehlungen 2017 (Bern 2017), Kp. 6.1, 39–44 (zusammen mit Andreas Steigmeier).
+*Digitale Fotos nutzbar halten: das OAIS-Modell.* In: Die Erhaltung von Fotografien. Memoriav-Empfehlungen 2017 (Bern 2017), Kp. 6.1, 39–44 (zusammen mit Andreas Steigmeier).
 
-Digitale Nutzbarhaltung auf Jahrzehnte – wirtschaftlich orientiert und mit einfachen Mitteln. In: Arbido 2014/3, Kulturerbe der Wirtschaft – kollektives Gedächtnis - Patrimoine culturel économique – mémoire collective (zusammen mit Andreas Steigmeier).
+*Digitale Nutzbarhaltung auf Jahrzehnte – wirtschaftlich orientiert und mit einfachen Mitteln.* In: Arbido 2014/3, Kulturerbe der Wirtschaft – kollektives Gedächtnis - Patrimoine culturel économique – mémoire collective (zusammen mit Andreas Steigmeier).
 
-Normen und Standards als Synergiepotenziale in der digitalen Archivierung. In: Arbido 2012/2, 13–15, Normen und Standards.
+*Normen und Standards als Synergiepotenziale in der digitalen Archivierung. *In: Arbido 2012/2, 13–15, Normen und Standards.
 
-Technik im Aufwind: Ein Kernkraftwerk mitten in der Stadt Zürich. In: SEV-Bulletin 
-15/2006, 40.
+*Unternehmen in der Geschichtsschreibung.* In: Unternehmensarchive - ein Kulturgut? Beiträge zur Arbeitstagung Unternehmensarchive und Unternehmensgeschichte. Hg. Schweizerisches Wirtschaftsarchiv / VSA. Baden 2006, 19–23 (zusammen mit Patrick Kupper).
 
-Die Reaktor AG: Atomtechnologie zwischen Industrie, Hochschule und Staat. In: Schweizerische Zeitschrift für Geschichte, Vol. 55, 2005, Nr. 1, 70–83.
-
-Unternehmen in der Geschichtsschreibung. In: Unternehmensarchive - ein Kulturgut? Beiträge zur Arbeitstagung Unternehmensarchive und Unternehmensgeschichte. Hg. Schweizerisches Wirtschaftsarchiv / VSA. Baden 2006, 19–23 (zusammen mit Patrick Kupper).
-
-Unternehmensarchive nicht nur «retten», sondern umfassend nutzen. In: Unternehmens­archive - ein Kulturgut? Beiträge zur Arbeitstagung Unternehmensarchive und Unter­nehmens­geschichte. Hg. Schweizerisches Wirtschaftsarchiv / VSA. Baden 2006, 38–44 (zusammen mit Andreas Steigmeier).
-
-Das Departement Informatik (D-INFK). In: Lehre und Forschung an der ETH Zürich. Eine Festschrift zum 150-Jahr-Jubiläum. Hg. von Schweizerische Akademie der Technischen Wissenschaften. Basel 2005, 97–104 (zusammen mit Andreas Nef).
-
-Die Lilith. In: www.ethistory.ethz.ch [elektronische Publikation]. Zürich 2005.
+*Unternehmensarchive nicht nur «retten», sondern umfassend nutzen. *In: Unternehmens­archive - ein Kulturgut? Beiträge zur Arbeitstagung Unternehmensarchive und Unter­nehmens­geschichte. Hg. Schweizerisches Wirtschaftsarchiv / VSA. Baden 2006, 38–44 (zusammen mit Andreas Steigmeier).
 
 
 ## Fachvorträge, Weiterbildungen
