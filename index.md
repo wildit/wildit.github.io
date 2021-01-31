@@ -4,7 +4,7 @@ Dr. Tobias Wildi ist Dozent für Archivwissenschaft an der [Fachhochschule Graub
 
 ## Kontakt
 **Mail:** [tobias.wildi@fhgr.ch](mailto:tobias.wildi@fhgr.ch) \
-**Twitter:** [@wildit](https://www.linkedin.com/in/tobias-wildi/) \
+**Twitter:** [@wildit](https://twitter.com/wildit) \
 **Linkedin:** [https://www.linkedin.com/in/tobias-wildi/](https://www.linkedin.com/in/tobias-wildi/) \
 **Adresse:** Fachhochschule Graubünden, Schweizerisches Institut für Informationswissenschaft (SII), Ringstrasse 34, 7000 Chur \
 **Raum:** B 2.09 
