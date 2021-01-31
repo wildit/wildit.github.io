@@ -1,6 +1,6 @@
-Dr. Tobias Wildi ist Dozent für Archivwissenschaft an der [Fachhochschule Graubünden (FHGR).](https://www.fhgr.ch) Seine Forschungsinteressen umfassen Daten- und Metadatenmodelle für Archive, die Anwendung semantischer Technologien in Gedächtnisinstitutionen und die langfristige Nutzbarhaltung digitaler Kulturgüter. Er untersucht, welchen Beitrag Archive zum Funktionieren von Zivilgesellschaft, Wirtschaft und Demokratie leisten und welche Rolle sie in digitalen Transformationsprozessen einnehmnen.
+Dr. Tobias Wildi ist Dozent für Archivwissenschaft an der [Fachhochschule Graubünden (FHGR).](https://www.fhgr.ch) Seine Forschungsinteressen umfassen Daten- und Metadatenmodelle für Archive, die Anwendung semantischer Technologien in Gedächtnisinstitutionen und die langfristige Nutzbarhaltung digitaler Kulturgüter. Er untersucht, welchen Beitrag Archive zum Funktionieren von politischen Systemen, Zivilgesellschaft und Wirtschaft leisten und welche Rolle sie in digitalen Transformationsprozessen einnehmnen.
 
-| [Biografie](#biografie) | [Publikationen](#publikationen) | [Präsentationen](#fachvorträge-weiterbildungen) |
+[Biografie](#biografie) | [Publikationen](#publikationen) | [Präsentationen](#fachvorträge-weiterbildungen) 
 
 ## Kontakt
 **Mail:** [tobias.wildi@fhgr.ch](mailto:tobias.wildi@fhgr.ch) \
@@ -14,7 +14,7 @@ Dr. Tobias Wildi ist Dozent für Archivwissenschaft an der [Fachhochschule Graub
 - Weiterbildung in IT-Architektur, Zertifikatskurs HWZ (2020-2021)
 - Nachdiplomstudium für Archiv- und Informationswissenschaften in Lausanne (2004-2006)
 - Promotion an der Universität Zürich zum Dr. phil. (2002)
-- Studium in Zürich und Lausanne, Geschichte und Informatik (1993-1999)
+- Studium in Zürich und Lausanne, Geschichte, Politikwissenschaft und Informatik (1993-1999)
 
 ### Berufliche Tätigkeiten
 - **seit 2021: [Fachhochschule Graubünden (FHGR)](https://www.fhgr.ch) Dozent für Archivwissenschaft** 
