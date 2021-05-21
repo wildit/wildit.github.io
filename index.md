@@ -18,8 +18,8 @@ Dr. Tobias Wildi ist Dozent für Archivwissenschaft an der [Fachhochschule Graub
 
 ### Berufliche Tätigkeiten
 - **seit 2021: [Fachhochschule Graubünden (FHGR)](https://www.fhgr.ch) Dozent für Archivwissenschaft** 
-- **seit 2021: [docuteam GmbH,](https://www.docuteam.ch) Verwaltungsratspräsident** 
-- **2003–2020: [docuteam GmbH,](https://www.docuteam.ch) Mitbegründer und Geschäftsführer,** tätig als Unternehmer, Fachexperte und Projektleiter. Docuteam beschäftigt heute knapp 40 Mitarbeitende an zwei Standorten in der Deutsch- und Westschweiz und gehört zu den führenden Archivdienstleistern in der Schweiz. Die Open Source-Lösung «docuteam cosmos» für digitale Langzeitarchivierung wird in der ganzen Schweiz und im umliegenden Ausland verwendet.
+- **seit 2021: [docuteam AG,](https://www.docuteam.ch) Verwaltungsratspräsident** 
+- **2003–2020: [docuteam AG,](https://www.docuteam.ch) Mitbegründer und Geschäftsführer,** tätig als Unternehmer, Fachexperte und Projektleiter. Docuteam beschäftigt heute knapp 40 Mitarbeitende an zwei Standorten in der Deutsch- und Westschweiz und gehört zu den führenden Archivdienstleistern in der Schweiz. Die Open Source-Lösung «docuteam cosmos» für digitale Langzeitarchivierung wird in der ganzen Schweiz und im umliegenden Ausland verwendet.
 - **1999–2002	ETH Zürich, Institut für Technikgeschichte.** Doktorand.
 - **1998–2000	Archiv für Zeitgeschichte** wissenschaftlicher Archivar und Informatiker.
 
@@ -59,11 +59,17 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 *Unternehmen in der Geschichtsschreibung.* In: Unternehmensarchive - ein Kulturgut? Beiträge zur Arbeitstagung Unternehmensarchive und Unternehmensgeschichte. Hg. Schweizerisches Wirtschaftsarchiv / VSA. Baden 2006, 19–23 (zusammen mit Patrick Kupper).
 
-*Unternehmensarchive nicht nur «retten», sondern umfassend nutzen.* In: Unternehmens­archive - ein Kulturgut? Beiträge zur Arbeitstagung Unternehmensarchive und Unter­nehmens­geschichte. Hg. Schweizerisches Wirtschaftsarchiv / VSA. Baden 2006, 38–44 (zusammen mit Andreas Steigmeier).
+*Unternehmensarchive nicht nur «retten», sondern umfassend nutzen.* In: Unternehmens­archive - ein Kulturgut? Beiträge zur Arbeitstagung Unternehmensarchive und Unternehmensgeschichte. Hg. Schweizerisches Wirtschaftsarchiv / VSA. Baden 2006, 38–44 (zusammen mit Andreas Steigmeier).
 
 
 ## Fachvorträge, Weiterbildungen
-Records in Contexts: Ein neuer Standard für die mehrdimensionale Erschliessung. Vortrag/Weiter­bildungs­veranstaltung für das Staatsarchiv St. Gallen, 17.11.2020.
+Das Archiv im digitalisierten Unternehmen: Neues Rollenverständnis und neue Lebenszyklusmodelle. Referat im Rahmen des 5. VdW-Webinars "Von der analogen zur E-Akte", 22.4.2021.
+
+Das Archiv im digitalisierten Unternehmen: Neues Rollenverständnis und neue Lebenszyklusmodelle. Referat im Rahmen des 3. VdW-Webinars "Von der analogen zur E-Akte", 29.3.2021.
+
+Das Archiv im digitalisierten Unternehmen: Neues Rollenverständnis und neue Lebenszyklusmodelle. Referat im Rahmen des 1. VdW-Webinars "Von der analogen zur E-Akte", 21.3.2021.
+
+Records in Contexts: Ein neuer Standard für die mehrdimensionale Erschliessung. Vortrag/Weiterbildungsveranstaltung für das Staatsarchiv St. Gallen, 17.11.2020.
 
 Memoriav-Schulungstag digitale Archivierung. Interne Weiterbildungsveranstaltung (Webinar, ganzer Tag) für die Mitarbeitenden von Memoriav, 10.11.2020.
 
