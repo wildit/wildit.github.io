@@ -63,6 +63,8 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ## Fachvorträge, Weiterbildungen
+[Contextualising Haystacks with Records in Contexts (RiC).](https://zenodo.org/record/4945303) Referat im Rahmen von DHCH 2021, Digital Images, Metadata and Cultural Heritage Objects. Rom, 8.6.2021.
+
 Das Archiv im digitalisierten Unternehmen: Neues Rollenverständnis und neue Lebenszyklusmodelle. Referat im Rahmen des 5. VdW-Webinars "Von der analogen zur E-Akte", 22.4.2021.
 
 Das Archiv im digitalisierten Unternehmen: Neues Rollenverständnis und neue Lebenszyklusmodelle. Referat im Rahmen des 3. VdW-Webinars "Von der analogen zur E-Akte", 29.3.2021.
