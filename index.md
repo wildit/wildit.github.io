@@ -27,7 +27,7 @@ Dr. Tobias Wildi ist Dozent für Archivwissenschaft an der [Fachhochschule Graub
 - **Seit 2019:** Mitglied der Experts Group on Archival Description (EGAD) des International Council on Archives (ICA). Innerhalb der EGAD arbeite ich an der Entwicklung der neuen Records in Contexts-Ontologie (RiC-O).
 - **Seit 2016:** VSA, Mitglied der Arbeitsgruppe «Normen und Standards», Mitglied und Mitinitiator der Projektgruppe «Ensemen» zur Entwicklung eines Nachfolgestandards für die Ablieferungsschnittstelle eCH-0160.
 - **Seit 2012:** Mitglied der Eidgenössischen Kommission für Kulturgüterschutz, seit 2016 Präsident.
-- **Seit 2018-2021:** Mitglied der kantonalen Kulturgüterschutz-Kommission des Kantons Wallis.
+- **2018-2021:** Mitglied der kantonalen Kulturgüterschutz-Kommission des Kantons Wallis.
 - **2011–2015:** VSA, Mitglied der Arbeitsgruppe «Archive der privaten Wirtschaft».
 
 ## Publikationen
