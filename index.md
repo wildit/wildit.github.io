@@ -59,10 +59,12 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 *Unternehmen in der Geschichtsschreibung.* In: Unternehmensarchive - ein Kulturgut? Beiträge zur Arbeitstagung Unternehmensarchive und Unternehmensgeschichte. Hg. Schweizerisches Wirtschaftsarchiv / VSA. Baden 2006, 19–23 (zusammen mit Patrick Kupper).
 
-*Unternehmensarchive nicht nur «retten», sondern umfassend nutzen.* In: Unternehmens­archive - ein Kulturgut? Beiträge zur Arbeitstagung Unternehmensarchive und Unternehmensgeschichte. Hg. Schweizerisches Wirtschaftsarchiv / VSA. Baden 2006, 38–44 (zusammen mit Andreas Steigmeier).
+*Unternehmensarchive nicht nur «retten», sondern umfassend nutzen.* In: Unternehmensarchive - ein Kulturgut? Beiträge zur Arbeitstagung Unternehmensarchive und Unternehmensgeschichte. Hg. Schweizerisches Wirtschaftsarchiv / VSA. Baden 2006, 38–44 (zusammen mit Andreas Steigmeier).
 
 
 ## Fachvorträge, Weiterbildungen
+Records in Contexts (RiC) -- Einführung in den neuen Standard für Archive. Referat für MAS ALIS-Alumni. Universität Bern, 7.7.2021.
+
 [Contextualising Haystacks with Records in Contexts (RiC).](https://zenodo.org/record/4945303) Referat im Rahmen von DHCH 2021, Digital Images, Metadata and Cultural Heritage Objects. Rom, 8.6.2021.
 
 Das Archiv im digitalisierten Unternehmen: Neues Rollenverständnis und neue Lebenszyklusmodelle. Referat im Rahmen des 5. VdW-Webinars "Von der analogen zur E-Akte", 22.4.2021.
