@@ -65,6 +65,8 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ## Fachvorträge, Weiterbildungen
+[Nachhaltige Sicherung von digitalem Kulturgut.](https://zenodo.org/record/5518707) Referat im Rahmen der VSA-Fachtagung "Archiv und Nachhaltigkeit". Lugano, 17.9.2021.
+
 Records in Contexts (RiC) -- Einführung in den neuen Standard für Archive. Referat für MAS ALIS-Alumni. Universität Bern, 7.7.2021.
 
 [Contextualising Haystacks with Records in Contexts (RiC).](https://zenodo.org/record/4945303) Referat im Rahmen von DHCH 2021, Digital Images, Metadata and Cultural Heritage Objects. Rom, 8.6.2021.
