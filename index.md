@@ -71,6 +71,8 @@ Records in Contexts (RiC) -- Einführung in den neuen Standard für Archive. Ref
 
 [Contextualising Haystacks with Records in Contexts (RiC).](https://zenodo.org/record/4945303) Referat im Rahmen von DHCH 2021, Digital Images, Metadata and Cultural Heritage Objects. Rom, 8.6.2021.
 
+Company Town. Baden und die BBC/ABB. Referat im Rahmen des CAS Applied Economic History Universität Zürich, 29.5.2021.
+
 Das Archiv im digitalisierten Unternehmen: Neues Rollenverständnis und neue Lebenszyklusmodelle. Referat im Rahmen des 5. VdW-Webinars "Von der analogen zur E-Akte", 22.4.2021.
 
 Das Archiv im digitalisierten Unternehmen: Neues Rollenverständnis und neue Lebenszyklusmodelle. Referat im Rahmen des 3. VdW-Webinars "Von der analogen zur E-Akte", 29.3.2021.
@@ -91,7 +93,7 @@ Mehrdimensionale Erschliessung mit Records in Contexts (RiC). Vortrag (Webinar) 
 
 [Studie Bergungsort für digitale Kulturgüter.](https://www.babs.admin.ch/content/babs-internet/de/aufgabenbabs/kgs/organisation/_jcr_content/contentPar/tabs/items/downloads/tabPar/downloadlist/downloadItems/42_1586943908815.download/Pr%C3%A4sentation_Studie_Bergungsort_f%C3%BCr_digitale_Kulturg%C3%BCter_25_03_2020.pdf) Vortrag (Webinar) im Auftrag der nationalen Fachstelle Kulturgüterschutz, 25.3.2020.
 
-Company Town. Baden und die BBC/ABB. Vortrag im Rahmen des CAS Applied Economic History, 2. Curriculum 2019–2020, 13.12.2019.
+Company Town. Baden und die BBC/ABB. Vortrag im Rahmen des CAS Applied Economic History Universität Zürich, 2. Curriculum 2019–2020, 13.12.2019.
 
 Digitale Archivierung in der Gemeindeverwaltung: Konzepte, Begriffe und pragmatische Umsetzung. Vortrag im Rahmen der IPM-Weiterbildung Archivierung für Aargauer Gemeindepersonal, 27.9.2019.
 
