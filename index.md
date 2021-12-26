@@ -40,8 +40,10 @@ Dr. Tobias Wildi ist Dozent für Archivwissenschaft an der [Fachhochschule Graub
 Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection.ethz.ch/handle/20.500.11850/88080) Die schweizerische Atomtechnologieentwicklung 1945–1969. Zürich 2003.
 
 
-### Aufsätze (Auswahl)
-[*Honorar oder Lohn? Vielfältige Betreuungsmodelle fördern die Resilienz von Wirtschaftsarchiven.*](https://zenodo.org/record/4945505) In: Archiv und Wirtschaft, Zeitschrift für das Archivwesen der Wirtschaft. 2021, Heft 1, , 24-30.
+### Aufsätze und Studien (Auswahl)
+[*ICA Records in Contexts-Ontology (RiC-O): a Semantic Framework for Describing Archival Resources.*](http://ceur-ws.org/Vol-3019/LinkedArchives_2021_paper_13.pdf) Proceedings of Linked Archives International Workshop 2021 co-located with 25th International Conference on Theory and Practice of Digital Libraries (TPDL 2021). Online, September 13th, 2021. (Together with Florence Clavaud).
+
+[*Honorar oder Lohn? Vielfältige Betreuungsmodelle fördern die Resilienz von Wirtschaftsarchiven.*](https://zenodo.org/record/4945505) In: Archiv und Wirtschaft, Zeitschrift für das Archivwesen der Wirtschaft. 2021, Heft 1, 24-30.
 
 [*Ein Bergungsort für digitale Kulturgüter.*](https://www.babs.admin.ch/content/babs-internet/de/aufgabenbabs/kgs/prints/_jcr_content/contentPar/accordion/accordionItems/kgs_forum/accordionPar/downloadlist/downloadItems/21_1604391088920.download/Barrierefrei_Forum35_d.pdf) Langfristiger Schutz für eine neue Kategorie des kulturellen Erbes. In: KGS forum Nr. 35/2021, 17–22.
 
@@ -65,6 +67,10 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ## Fachvorträge, Weiterbildungen
+Records in Contexts: International Standard for the Describing Archival Records. Referat im Rahmen der ICA International Council on Archives Virtual Conference 2021, 26.10.2021. (Zusammen mit Daniel Pitti, Bill Stockting, Florence Clavaud).
+
+[Matterhorn RDF: Contextualize archival records with RiC and Premis.](https://zenodo.org/record/5804872) Referat im Rahmen der ICA International Council on Archives Virtual Conference 2021, 26.10.2021.
+
 [Nachhaltige Sicherung von digitalem Kulturgut.](https://zenodo.org/record/5518707) Referat im Rahmen der VSA-Fachtagung "Archiv und Nachhaltigkeit". Lugano, 17.9.2021.
 
 Records in Contexts (RiC) -- Einführung in den neuen Standard für Archive. Referat für MAS ALIS-Alumni. Universität Bern, 7.7.2021.
