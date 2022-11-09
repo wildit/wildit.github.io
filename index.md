@@ -65,7 +65,7 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ## Fachvorträge, Weiterbildungen
-Using RiC as aggregation format for cultural heritage data in Switzerland. Referat im Rahmen der ICA International Council on Archives Conference Rome 2022, 22.9.2022.
+[Using RiC as aggregation format for cultural heritage data in Switzerland.](https://zenodo.org/record/7308125) Referat im Rahmen der ICA International Council on Archives Conference Rome 2022, 22.9.2022.
 
 Basic RiC. A Practical Workshop For Using “Records In Contexts” By Beginners. Workshop im Rahmen der ICA International Council on Archives Conference Rome 2022, 21.9.2022. (Zusammen mit Bogdan-Florin Popovici).
 
