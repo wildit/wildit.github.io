@@ -5,7 +5,7 @@ Ich bin Dozent für Archivwissenschaft an der [Fachhochschule Graubünden (FHGR)
 ## Kontakt
 **Mail:** [tobias.wildi@fhgr.ch](mailto:tobias.wildi@fhgr.ch) \
 **Twitter:** [@wildit](https://twitter.com/wildit) \
-**Linkedin:** [tobias-wildi/](https://www.linkedin.com/in/tobias-wildi/) \
+**Linkedin:** [tobias-wildi/](https://www.linkedin.com/in/tobias-wildi/) 
 
 ## Biografie
 ### Aus- und Weiterbildung
@@ -65,7 +65,9 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ## Fachvorträge, Weiterbildungen
+Using RiC as aggregation format for cultural heritage data in Switzerland. Referat im Rahmen der ICA International Council on Archives Conference Rome 2022, 22.9.2022.
 
+Basic RiC. A Practical Workshop For Using “Records In Contexts” By Beginners. Workshop im Rahmen der ICA International Council on Archives Conference Rome 2022, 21.9.2022. (Zusammen mit Bogdan-Florin Popovici).
 
 Hauptreferent (zusammen mit Achim Korres) 95. VdW-Lehrgang Elektronische Langzeitarchivierung: Praxisanforderungen — Erste Schritte — Perspektiven. Heidelberg (D), 26.-29.Juni 2022.
 Referate:
