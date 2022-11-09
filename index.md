@@ -5,7 +5,7 @@ Ich bin Dozent für Archivwissenschaft an der [Fachhochschule Graubünden (FHGR)
 ## Kontakt
 **Mail:** [tobias.wildi@fhgr.ch](mailto:tobias.wildi@fhgr.ch) \
 **Twitter:** [@wildit](https://twitter.com/wildit) \
-**Linkedin:** [https://www.linkedin.com/in/tobias-wildi/](https://www.linkedin.com/in/tobias-wildi/) \
+**Linkedin:** [tobias-wildi/](https://www.linkedin.com/in/tobias-wildi/) \
 
 ## Biografie
 ### Aus- und Weiterbildung
@@ -65,6 +65,14 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ## Fachvorträge, Weiterbildungen
+
+
+Hauptreferent (zusammen mit Achim Korres) 95. VdW-Lehrgang Elektronische Langzeitarchivierung: Praxisanforderungen — Erste Schritte — Perspektiven. Heidelberg (D), 26.-29.Juni 2022.
+Referate:
+- Grundkonzepte digitaler Langzeitarchivierung. OAIS: Referenzmodell für eine gemeinsamt Begrifflichkeit
+- Wie funktionieren digitale Ablieferungen?
+- Was gehört in einen Projektantrag für ein digitales Archiv?
+
 Records in Contexts: International Standard for the Describing Archival Records. Referat im Rahmen der ICA International Council on Archives Virtual Conference 2021, 26.10.2021. (Zusammen mit Daniel Pitti, Bill Stockting, Florence Clavaud).
 
 [Matterhorn RDF: Contextualize archival records with RiC and Premis.](https://zenodo.org/record/5804872) Referat im Rahmen der ICA International Council on Archives Virtual Conference 2021, 26.10.2021.
