@@ -69,9 +69,11 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ## Fachvorträge, Weiterbildungen
+[*Introducing Records in Contexts: The New ICA Standard for Describing Records*.] Tobias Wildi (Rationale and History of RiC), Bill Stockting (The Conceptual Model), Florence Clavaud (The Ontology). 2022. [https://www.youtube.com/watch?v=oHG_pupre8w](https://www.youtube.com/watch?v=oHG_pupre8w)
+
 [Using RiC as aggregation format for cultural heritage data in Switzerland.](https://zenodo.org/record/7308125) Referat im Rahmen der ICA International Council on Archives Conference Rome 2022, 22.9.2022.
 
-Basic RiC. A Practical Workshop For Using “Records In Contexts” By Beginners. Workshop im Rahmen der ICA International Council on Archives Conference Rome 2022, 21.9.2022. (Zusammen mit Bogdan-Florin Popovici).
+Basic RiC. A Practical Workshop For Using “Records In Contexts” By Beginners. Workshop im Rahmen der ICA International Council on Archives Conference Rome 2022, 21.9.2022. (with Bogdan-Florin Popovici).
 
 Hauptreferent (zusammen mit Achim Korres) 95. VdW-Lehrgang Elektronische Langzeitarchivierung: Praxisanforderungen — Erste Schritte — Perspektiven. Heidelberg (D), 26.-29. Juni 2022.
 Referate:
