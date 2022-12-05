@@ -1,4 +1,4 @@
-Ich bin Dozent für Archivwissenschaft an der [Fachhochschule Graubünden (FHGR).](https://www.fhgr.ch) Meine Forschungs- und Consultinginteressen betreffen Daten- und Metadatenmodelle für Archive, die Anwendung semantischer Technologien in Gedächtnisinstitutionen und die langfristige Nutzbarhaltung digitaler Kulturgüter. Es interessiert mich, welchen Beitrag Archive zum Funktionieren von Zivilgesellschaft, politischen Systemen und Wirtschaft leisten und welche Rolle sie in digitalen Transformationsprozessen spielen.
+Ich bin Dozent für Archivwissenschaft an der [Fachhochschule Graubünden (FHGR).](https://www.fhgr.ch) Meine Forschungs- und Consultinginteressen liegen in Daten- und Metadatenmodellen für Archive, der Anwendung semantischer Technologien in Gedächtnisinstitutionen und der langfristigen Nutzbarhaltung digitaler Kulturgüter. Es interessiert mich, welchen Beitrag Archive zum Funktionieren von Zivilgesellschaft, politischen Systemen und Wirtschaft leisten und welche Rolle sie in digitalen Transformationsprozessen spielen.
 
 [Biografie](#biografie) | [Publikationen](#publikationen) | [Präsentationen](#fachvorträge-weiterbildungen) 
 
