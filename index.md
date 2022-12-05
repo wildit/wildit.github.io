@@ -73,7 +73,7 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 Basic RiC. A Practical Workshop For Using “Records In Contexts” By Beginners. Workshop im Rahmen der ICA International Council on Archives Conference Rome 2022, 21.9.2022. (Zusammen mit Bogdan-Florin Popovici).
 
-Hauptreferent (zusammen mit Achim Korres) 95. VdW-Lehrgang Elektronische Langzeitarchivierung: Praxisanforderungen — Erste Schritte — Perspektiven. Heidelberg (D), 26.-29.Juni 2022.
+Hauptreferent (zusammen mit Achim Korres) 95. VdW-Lehrgang Elektronische Langzeitarchivierung: Praxisanforderungen — Erste Schritte — Perspektiven. Heidelberg (D), 26.-29. Juni 2022.
 Referate:
 - Grundkonzepte digitaler Langzeitarchivierung. OAIS: Referenzmodell für eine gemeinsamt Begrifflichkeit
 - Wie funktionieren digitale Ablieferungen?
