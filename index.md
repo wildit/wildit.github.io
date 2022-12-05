@@ -5,11 +5,13 @@ Ich bin Dozent für Archivwissenschaft an der [Fachhochschule Graubünden (FHGR)
 ## Kontakt
 **Mail:** [tobias.wildi@fhgr.ch](mailto:tobias.wildi@fhgr.ch) \
 **Twitter:** [@wildit](https://twitter.com/wildit) \
-**Linkedin:** [tobias-wildi/](https://www.linkedin.com/in/tobias-wildi/) 
+**Mastodon:** [@wildit@digipres.club](https://digipres.club/web/@wildit) \
+**Linkedin:** [tobias-wildi](https://www.linkedin.com/in/tobias-wildi/) 
+
 
 ## Biografie
 ### Aus- und Weiterbildung
-- Weiterbildung in IT-Architektur, Zertifikatskurs HWZ (2020-2021)
+- Weiterbildung in IT-Architektur, CAS Zertifikatskurs HWZ (2020-2021)
 - Nachdiplomstudium für Archiv- und Informationswissenschaften in Lausanne (2004-2006)
 - Promotion an der Universität Zürich zum Dr. phil. (2002)
 - Studium in Zürich und Lausanne, Geschichte, Politikwissenschaft und Informatik (1993-1999)
@@ -39,6 +41,8 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ### Aufsätze und Studien (Auswahl)
+[*From MARCXML to Records in Contexts (RiC) – a configurable mapping pipeline.*] (https://zenodo.org/record/7400442) From MARCXML to Records in Contexts (RiC) – a configurable mapping pipeline. Documentation of the SWITCH Innovation Lab [“Linked Archival Ontology and Pipeline”.](https://www.switch.ch/de/stories/Making-archive-data-usable/) 2022.
+
 [*ICA Records in Contexts-Ontology (RiC-O): a Semantic Framework for Describing Archival Resources.*](http://ceur-ws.org/Vol-3019/LinkedArchives_2021_paper_13.pdf) Proceedings of Linked Archives International Workshop 2021 co-located with 25th International Conference on Theory and Practice of Digital Libraries (TPDL 2021). Online, September 13th, 2021. (Together with Florence Clavaud).
 
 [*Honorar oder Lohn? Vielfältige Betreuungsmodelle fördern die Resilienz von Wirtschaftsarchiven.*](https://zenodo.org/record/4945505) In: Archiv und Wirtschaft, Zeitschrift für das Archivwesen der Wirtschaft. 2021, Heft 1, 24-30.
