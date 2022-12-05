@@ -69,7 +69,7 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ## Fachvorträge, Weiterbildungen
-[*Introducing Records in Contexts: The New ICA Standard for Describing Records*.] Tobias Wildi (Rationale and History of RiC), Bill Stockting (The Conceptual Model), Florence Clavaud (The Ontology). 2022. [https://www.youtube.com/watch?v=oHG_pupre8w](https://www.youtube.com/watch?v=oHG_pupre8w)
+[*Introducing Records in Contexts: The New ICA Standard for Describing Records*.](https://www.youtube.com/watch?v=oHG_pupre8w) Tobias Wildi (Rationale and History of RiC), Bill Stockting (The Conceptual Model), Florence Clavaud (The Ontology). Webinar in preparation for the ICA International Council on Archives Conference Rome 2022.
 
 [Using RiC as aggregation format for cultural heritage data in Switzerland.](https://zenodo.org/record/7308125) Referat im Rahmen der ICA International Council on Archives Conference Rome 2022, 22.9.2022.
 
