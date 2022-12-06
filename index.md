@@ -49,7 +49,7 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 [*Ein Bergungsort für digitale Kulturgüter.*](https://www.babs.admin.ch/content/babs-internet/de/aufgabenbabs/kgs/prints/_jcr_content/contentPar/accordion/accordionItems/kgs_forum/accordionPar/downloadlist/downloadItems/21_1604391088920.download/Barrierefrei_Forum35_d.pdf) Langfristiger Schutz für eine neue Kategorie des kulturellen Erbes. In: KGS forum Nr. 35/2021, 17–22.
 
-*Preproject “Swiss Virtual Natural History Collection” (SVNHC).* Report mandated by Swiss Academy of Sciences (SCNAT). 2021. (Together with Ana Petrus)
+*Preproject “Swiss Virtual Natural History Collection” (SVNHC).* Report mandated by Swiss Academy of Sciences (SCNAT). 2021. (Together with Ana Petrus).
 
 [*Ein Bergungsort für digitale Kulturgüter.*](https://www.babs.admin.ch/content/babs-internet/de/aufgabenbabs/kgs/organisation/_jcr_content/contentPar/tabs/items/downloads/tabPar/downloadlist/downloadItems/118_1583335484119.download/Studie_Bergungsort_digitale_Kulturgueter_2020_03_02.pdf) Studie im Auftrag des Fachbereichs Kulturgüterschutz KGS, Bundesamt für Bevölkerungsschutz BABS. 2.3.2020.
 
