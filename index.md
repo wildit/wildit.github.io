@@ -41,7 +41,7 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ### Aufsätze und Studien (Auswahl)
-[*From MARCXML to Records in Contexts (RiC) – a configurable mapping pipeline.*](https://zenodo.org/record/7400442) From MARCXML to Records in Contexts (RiC) – a configurable mapping pipeline. Documentation of the SWITCH Innovation Lab [“Linked Archival Ontology and Pipeline”.](https://www.switch.ch/de/stories/Making-archive-data-usable/) 2022.
+[*From MARCXML to Records in Contexts (RiC) – a configurable mapping pipeline.*](https://zenodo.org/record/7400442) Documentation of the SWITCH Innovation Lab [“Linked Archival Ontology and Pipeline”.](https://www.switch.ch/de/stories/Making-archive-data-usable/) 2022.
 
 [*ICA Records in Contexts-Ontology (RiC-O): a Semantic Framework for Describing Archival Resources.*](http://ceur-ws.org/Vol-3019/LinkedArchives_2021_paper_13.pdf) Proceedings of Linked Archives International Workshop 2021 co-located with 25th International Conference on Theory and Practice of Digital Libraries (TPDL 2021). Online, September 13th, 2021. (Together with Florence Clavaud).
 
