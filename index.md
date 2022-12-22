@@ -5,7 +5,7 @@ Ich bin Dozent für Archivwissenschaft an der [Fachhochschule Graubünden (FHGR)
 ## Kontakt
 **Mail:** [tobias.wildi@fhgr.ch](mailto:tobias.wildi@fhgr.ch) \
 **Twitter:** [@wildit](https://twitter.com/wildit) \
-**Mastodon:** [@wildit@digipres.club](https://digipres.club/web/@wildit) \
+**Mastodon:** [digipres.club/@wildit](https://digipres.club/@wildit) \
 **Linkedin:** [tobias-wildi](https://www.linkedin.com/in/tobias-wildi/) 
 
 
@@ -41,15 +41,17 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ### Aufsätze und Studien (Auswahl)
+[*Swiss Virtual Natural History Collection (SVNHC).*](https://www.fhgr.ch/fileadmin/fhgr/ueber_die_fhgr/wofuer_stehen_wir/strategische_initiativen/digitalisierung/digital_transformation_space/Digital-Transformation-Space-Digitale-Transformation-an-der-Fachhochschule-Graubuenden.pdf) In: Digitale Transformation an der Fachhochschule Graubünden. Case Studies aus Forschung und Lehre. Chur, 2022, 119-124. (zusammen mit Stefanie Müller und Ana Petrus)
+
 [*From MARCXML to Records in Contexts (RiC) – a configurable mapping pipeline.*](https://zenodo.org/record/7400442) Documentation of the SWITCH Innovation Lab [“Linked Archival Ontology and Pipeline”.](https://www.switch.ch/de/stories/Making-archive-data-usable/) 2022.
 
-[*ICA Records in Contexts-Ontology (RiC-O): a Semantic Framework for Describing Archival Resources.*](http://ceur-ws.org/Vol-3019/LinkedArchives_2021_paper_13.pdf) Proceedings of Linked Archives International Workshop 2021 co-located with 25th International Conference on Theory and Practice of Digital Libraries (TPDL 2021). Online, September 13th, 2021. (Together with Florence Clavaud).
+[*ICA Records in Contexts-Ontology (RiC-O): a Semantic Framework for Describing Archival Resources.*](http://ceur-ws.org/Vol-3019/LinkedArchives_2021_paper_13.pdf) Proceedings of Linked Archives International Workshop 2021 co-located with 25th International Conference on Theory and Practice of Digital Libraries (TPDL 2021). Online, September 13th, 2021. (together with Florence Clavaud).
 
 [*Honorar oder Lohn? Vielfältige Betreuungsmodelle fördern die Resilienz von Wirtschaftsarchiven.*](https://zenodo.org/record/4945505) In: Archiv und Wirtschaft, Zeitschrift für das Archivwesen der Wirtschaft. 2021, Heft 1, 24-30.
 
 [*Ein Bergungsort für digitale Kulturgüter.*](https://www.babs.admin.ch/content/babs-internet/de/aufgabenbabs/kgs/prints/_jcr_content/contentPar/accordion/accordionItems/kgs_forum/accordionPar/downloadlist/downloadItems/21_1604391088920.download/Barrierefrei_Forum35_d.pdf) Langfristiger Schutz für eine neue Kategorie des kulturellen Erbes. In: KGS forum Nr. 35/2021, 17–22.
 
-*Preproject “Swiss Virtual Natural History Collection” (SVNHC).* Report mandated by Swiss Academy of Sciences (SCNAT). 2021. (Together with Ana Petrus).
+*Preproject “Swiss Virtual Natural History Collection” (SVNHC).* Report mandated by Swiss Academy of Sciences (SCNAT). 2021. (together with Ana Petrus).
 
 [*Ein Bergungsort für digitale Kulturgüter.*](https://www.babs.admin.ch/content/babs-internet/de/aufgabenbabs/kgs/organisation/_jcr_content/contentPar/tabs/items/downloads/tabPar/downloadlist/downloadItems/118_1583335484119.download/Studie_Bergungsort_digitale_Kulturgueter_2020_03_02.pdf) Studie im Auftrag des Fachbereichs Kulturgüterschutz KGS, Bundesamt für Bevölkerungsschutz BABS. 2.3.2020.
 
@@ -71,6 +73,10 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ## Fachvorträge, Weiterbildungen
+[*RiC Records in Contexts. Quel changements et quelles perspectives?*](https://www.archivistes.ch/wp-content/uploads/2015/01/2022-12-08_1_RiC_introduction_TWildi.pdf) Présentation au sein de RiC Records in Contexts, quels changements et quelles perspectives? Journée d'information de l'AVA. Lausanne, 8.12.2022.
+
+[*Contextualiser un écrivain et son oeuvre avec RiC: L’exemple de Gustave Roud*](https://www.archivistes.ch/wp-content/uploads/2015/01/2022-12-08_2_RiC_Gustave_Roud_TWildi.pdf) Présentation au sein de RiC Records in Contexts, quels changements et quelles perspectives? Journée d'information de l'AVA. Lausanne, 8.12.2022.
+
 [*Introducing Records in Contexts: The New ICA Standard for Describing Records*.](https://www.youtube.com/watch?v=oHG_pupre8w) Tobias Wildi (Rationale and History of RiC), Bill Stockting (The Conceptual Model), Florence Clavaud (The Ontology). Webinar in preparation for the ICA International Council on Archives Conference Rome 2022.
 
 [Using RiC as aggregation format for cultural heritage data in Switzerland.](https://zenodo.org/record/7308125) Referat im Rahmen der ICA International Council on Archives Conference Rome 2022, 22.9.2022.
