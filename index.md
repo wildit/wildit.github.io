@@ -1,16 +1,16 @@
-Ich bin Dozent für Archivwissenschaft an der [Fachhochschule Graubünden (FHGR).](https://www.fhgr.ch) Meine Forschungs- und Consultinginteressen liegen in Daten- und Metadatenmodellen für Archive, der Anwendung semantischer Technologien in Gedächtnisinstitutionen und der langfristigen Nutzbarhaltung digitaler Kulturgüter. Es interessiert mich, welchen Beitrag Archive zum Funktionieren von Zivilgesellschaft, politischen Systemen und Wirtschaft leisten und welche Rolle sie in digitalen Transformationsprozessen spielen.
+Dozent für Archivwissenschaft an der [Fachhochschule Graubünden (FHGR),](https://www.fhgr.ch) unabhängiger Berater für digitale Archivierung und Informationsmanagement. Meine Forschungs- und Consultinginteressen liegen in Daten- und Metadatenmodellen für Archive, semantischen Technologien in Gedächtnisinstitutionen und der langfristigen Nutzbarhaltung digitaler Kulturgüter. Generell interessiert es mich, welchen Beitrag Archive zum Funktionieren von Zivilgesellschaft, politischen Systemen und Wirtschaft leisten und welche Rolle sie in digitalen Transformationsprozessen spielen.
 
 [Biografie](#biografie) | [Publikationen](#publikationen) | [Präsentationen](#fachvorträge-weiterbildungen) 
 
 ## Kontakt
 **Mail:** [tobias.wildi@fhgr.ch](mailto:tobias.wildi@fhgr.ch) \
 **Twitter:** [@wildit](https://twitter.com/wildit) \
-**Mastodon:** [digipres.club/@wildit](https://digipres.club/@wildit) \
 **Linkedin:** [tobias-wildi](https://www.linkedin.com/in/tobias-wildi/) 
 
 
 ## Biografie
 ### Aus- und Weiterbildung
+- Weiterbildung in Hochschuldidaktik, CAS Universität Zürich (2021-2023)
 - Weiterbildung in IT-Architektur, CAS Zertifikatskurs HWZ (2020-2021)
 - Nachdiplomstudium für Archiv- und Informationswissenschaften in Lausanne (2004-2006)
 - Promotion an der Universität Zürich zum Dr. phil. (2002)
