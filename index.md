@@ -1,4 +1,4 @@
-Dozent für Archivwissenschaft an der [Fachhochschule Graubünden (FHGR),](https://www.fhgr.ch) unabhängiger Berater für digitale Archivierung und Informationsmanagement. Meine Forschungs- und Consultinginteressen liegen in Daten- und Metadatenmodellen für Archive, semantischen Technologien in Gedächtnisinstitutionen und der langfristigen Nutzbarhaltung digitaler Kulturgüter. Generell interessiert es mich, welchen Beitrag Archive zum Funktionieren von Zivilgesellschaft, politischen Systemen und Wirtschaft leisten und welche Rolle sie in digitalen Transformationsprozessen spielen.
+Dozent für Archivwissenschaft an der [Fachhochschule Graubünden (FHGR),](https://www.fhgr.ch) unabhängiger Berater für digitale Archivierung und Informationsmanagement. Meine Forschungs- und Consultinginteressen liegen in Daten- und Metadatenmodellen für Archive, semantischen Technologien in Gedächtnisinstitutionen und der langfristigen Nutzbarhaltung digitaler Kulturgüter. Generell interessiert es mich, welchen Beitrag Archive zum Funktionieren von Zivilgesellschaft, politischen Systemen und Wirtschaft leisten und welche Rolle sie in digitalen Transformationsprozessen einnehmen.
 
 [Biografie](#biografie) | [Publikationen](#publikationen) | [Präsentationen](#fachvorträge-weiterbildungen) 
 
@@ -10,7 +10,7 @@ Dozent für Archivwissenschaft an der [Fachhochschule Graubünden (FHGR),](https
 
 ## Biografie
 ### Aus- und Weiterbildung
-- Weiterbildung in Hochschuldidaktik, CAS Universität Zürich (2021-2023)
+- Weiterbildung in Hochschuldidaktik, CAS Universität Zürich (laufend, 2021-2023)
 - Weiterbildung in IT-Architektur, CAS Zertifikatskurs HWZ (2020-2021)
 - Nachdiplomstudium für Archiv- und Informationswissenschaften in Lausanne (2004-2006)
 - Promotion an der Universität Zürich zum Dr. phil. (2002)
@@ -26,8 +26,8 @@ Dozent für Archivwissenschaft an der [Fachhochschule Graubünden (FHGR),](https
 ### Engagements in Fachgremien
 - **Seit 2019:** Mitglied der Experts Group on Archival Description (EGAD) des International Council on Archives (ICA). Innerhalb der EGAD arbeite ich an der Entwicklung der neuen Records in Contexts-Ontologie (RiC-O).
 - **Seit 2016:** VSA, Mitglied der Arbeitsgruppe «Normen und Standards», Mitglied und Mitinitiator der Projektgruppe «Ensemen» zur Entwicklung eines Nachfolgestandards für die Ablieferungsschnittstelle eCH-0160.
-- **Seit 2012:** Mitglied der Eidgenössischen Kommission für Kulturgüterschutz, seit 2016 Präsident.
-- **2018-2021:** Mitglied der kantonalen Kulturgüterschutz-Kommission des Kantons Wallis.
+- **2012–2023:** Mitglied der Eidgenössischen Kommission für Kulturgüterschutz, 2016–2023 Präsident.
+- **2018–2021:** Mitglied der kantonalen Kulturgüterschutz-Kommission des Kantons Wallis.
 - **2011–2015:** VSA, Mitglied der Arbeitsgruppe «Archive der privaten Wirtschaft».
 
 ## Publikationen
@@ -73,6 +73,14 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ## Fachvorträge, Weiterbildungen
+[*Archiving by Contextuality: the example of "Wing Commander".*](https://zenodo.org/record/8109070) Präsentation im Rahmen der Tagung «Games & Literature. Zur Literarizität, Erforschung, Sammlung und Archivierung von Computerspielen». Deutsches Literaturarchiv Marbach, 29.6.2023
+
+Hauptreferent (zusammen mit Achim Korres) 98. VdW-Lehrgang Elektronische Langzeitarchivierung: Praxisanforderungen — Erste Schritte — Perspektiven. Heidelberg (D), 25.-28. Juni 2023.
+Referate:
+- Grundkonzepte digitaler Langzeitarchivierung. OAIS: Referenzmodell für eine gemeinsamt Begrifflichkeit
+- Wie funktionieren digitale Ablieferungen? Übungen an praktischen Beispielen
+- Was gehört in einen Projektantrag für ein digitales Archiv?
+
 [*RiC Records in Contexts. Quel changements et quelles perspectives?*](https://www.archivistes.ch/wp-content/uploads/2015/01/2022-12-08_1_RiC_introduction_TWildi.pdf) Présentation au sein de RiC Records in Contexts, quels changements et quelles perspectives? Journée d'information de l'AVA. Lausanne, 8.12.2022.
 
 [*Contextualiser un écrivain et son oeuvre avec RiC: L’exemple de Gustave Roud*](https://www.archivistes.ch/wp-content/uploads/2015/01/2022-12-08_2_RiC_Gustave_Roud_TWildi.pdf) Présentation au sein de RiC Records in Contexts, quels changements et quelles perspectives? Journée d'information de l'AVA. Lausanne, 8.12.2022.
@@ -81,7 +89,7 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 [Using RiC as aggregation format for cultural heritage data in Switzerland.](https://zenodo.org/record/7308125) Referat im Rahmen der ICA International Council on Archives Conference Rome 2022, 22.9.2022.
 
-Basic RiC. A Practical Workshop For Using “Records In Contexts” By Beginners. Workshop im Rahmen der ICA International Council on Archives Conference Rome 2022, 21.9.2022. (with Bogdan-Florin Popovici).
+*Basic RiC. A Practical Workshop For Using “Records In Contexts” By Beginners.* Workshop im Rahmen der ICA International Council on Archives Conference Rome 2022, 21.9.2022. (with Bogdan-Florin Popovici).
 
 Hauptreferent (zusammen mit Achim Korres) 95. VdW-Lehrgang Elektronische Langzeitarchivierung: Praxisanforderungen — Erste Schritte — Perspektiven. Heidelberg (D), 26.-29. Juni 2022.
 Referate:
@@ -89,11 +97,11 @@ Referate:
 - Wie funktionieren digitale Ablieferungen?
 - Was gehört in einen Projektantrag für ein digitales Archiv?
 
-Records in Contexts: International Standard for the Describing Archival Records. Referat im Rahmen der ICA International Council on Archives Virtual Conference 2021, 26.10.2021. (Zusammen mit Daniel Pitti, Bill Stockting, Florence Clavaud).
+*Records in Contexts: International Standard for the Describing Archival Records.* Referat im Rahmen der ICA International Council on Archives Virtual Conference 2021, 26.10.2021. (Zusammen mit Daniel Pitti, Bill Stockting, Florence Clavaud).
 
-[Matterhorn RDF: Contextualize archival records with RiC and Premis.](https://zenodo.org/record/5804872) Referat im Rahmen der ICA International Council on Archives Virtual Conference 2021, 26.10.2021.
+[*Matterhorn RDF: Contextualize archival records with RiC and Premis.*](https://zenodo.org/record/5804872) Referat im Rahmen der ICA International Council on Archives Virtual Conference 2021, 26.10.2021.
 
-[Nachhaltige Sicherung von digitalem Kulturgut.](https://zenodo.org/record/5518707) Referat im Rahmen der VSA-Fachtagung "Archiv und Nachhaltigkeit". Lugano, 17.9.2021.
+[*Nachhaltige Sicherung von digitalem Kulturgut.*](https://zenodo.org/record/5518707) Referat im Rahmen der VSA-Fachtagung "Archiv und Nachhaltigkeit". Lugano, 17.9.2021.
 
 Records in Contexts (RiC) -- Einführung in den neuen Standard für Archive. Referat für MAS ALIS-Alumni. Universität Bern, 7.7.2021.
 
