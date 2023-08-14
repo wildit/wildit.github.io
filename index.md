@@ -41,6 +41,8 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ### Aufsätze und Studien (Auswahl)
+[*Die Erweiterung des Provenienzprinzips: Der neue Records in Contexts-Standard.*](https://zenodo.org/record/8245548) In: ARCHIV. theorie & praxis, 76. Jahrgang, Heft 03, Juli 2023, 166-173.
+
 [*Swiss Virtual Natural History Collection (SVNHC).*](https://www.fhgr.ch/fileadmin/fhgr/ueber_die_fhgr/wofuer_stehen_wir/strategische_initiativen/digitalisierung/digital_transformation_space/Digital-Transformation-Space-Digitale-Transformation-an-der-Fachhochschule-Graubuenden.pdf) In: Digitale Transformation an der Fachhochschule Graubünden. Case Studies aus Forschung und Lehre. Chur 2022, 119-124. (zusammen mit Stefanie Müller und Ana Petrus)
 
 [*From MARCXML to Records in Contexts (RiC) – a configurable mapping pipeline.*](https://zenodo.org/record/7400442) Documentation of the SWITCH Innovation Lab [“Linked Archival Ontology and Pipeline”.](https://www.switch.ch/de/stories/Making-archive-data-usable/) 2022.
