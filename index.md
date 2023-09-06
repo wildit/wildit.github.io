@@ -17,15 +17,16 @@ Dozent für Archivwissenschaft an der [Fachhochschule Graubünden (FHGR),](https
 - Studium in Zürich und Lausanne, Geschichte, Politikwissenschaft und Informatik (1993-1999)
 
 ### Berufliche Tätigkeiten
+- **seit 2023: Unabhängiger Berater** für digitale Archivierung und Informationsmanagement
 - **seit 2021: [Fachhochschule Graubünden (FHGR)](https://www.fhgr.ch) Dozent für Archivwissenschaft** 
 - **seit 2021: [docuteam AG,](https://www.docuteam.ch) Verwaltungsratspräsident** 
-- **2003–2020: [docuteam AG,](https://www.docuteam.ch) Mitbegründer und Geschäftsführer,** tätig als Unternehmer, Fachexperte und Projektleiter. Docuteam beschäftigt heute knapp 40 Mitarbeitende an zwei Standorten in der Deutsch- und Westschweiz und gehört zu den führenden Archivdienstleistern in der Schweiz. Die Open Source-Lösung «docuteam cosmos» für digitale Langzeitarchivierung wird in der ganzen Schweiz und im umliegenden Ausland verwendet.
-- **1999–2002	ETH Zürich, Institut für Technikgeschichte.** Doktorand.
-- **1998–2000	Archiv für Zeitgeschichte** wissenschaftlicher Archivar und Informatiker.
+- **2003–2020: [docuteam AG,](https://www.docuteam.ch) Mitbegründer und Geschäftsführer,** tätig als Unternehmer, Fachexperte und Projektleiter. Docuteam beschäftigt heute knapp 40 Mitarbeitende an zwei Standorten in der Deutsch- und Westschweiz und gehört zu den führenden Archivdienstleistern in der Schweiz. Die Open Source-Lösung «docuteam cosmos» für digitale Langzeitarchivierung wird in der ganzen Schweiz und im umliegenden Ausland verwendet
+- **1999–2002	ETH Zürich, Institut für Technikgeschichte.** Doktorand
+- **1998–2000	Archiv für Zeitgeschichte** wissenschaftlicher Archivar und Informatiker
 
 ### Engagements in Fachgremien
 - **Seit 2019:** Mitglied der Experts Group on Archival Description (EGAD) des International Council on Archives (ICA). Innerhalb der EGAD arbeite ich an der Entwicklung der neuen Records in Contexts-Ontologie (RiC-O).
-- **Seit 2016:** VSA, Mitglied der Arbeitsgruppe «Normen und Standards», Mitglied und Mitinitiator der Projektgruppe «Ensemen» zur Entwicklung eines Nachfolgestandards für die Ablieferungsschnittstelle eCH-0160.
+- **Seit 2016:** VSA, Mitglied der Arbeitsgruppe «Normen und Standards», seit 2023 Präsident.
 - **2012–2023:** Mitglied der Eidgenössischen Kommission für Kulturgüterschutz, 2016–2023 Präsident.
 - **2018–2021:** Mitglied der kantonalen Kulturgüterschutz-Kommission des Kantons Wallis.
 - **2011–2015:** VSA, Mitglied der Arbeitsgruppe «Archive der privaten Wirtschaft».
