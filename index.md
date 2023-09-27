@@ -1,16 +1,17 @@
-Dozent für Archivwissenschaft an der [Fachhochschule Graubünden (FHGR),](https://www.fhgr.ch) unabhängiger Berater für digitale Archivierung und Informationsmanagement. Meine Forschungs- und Consultinginteressen liegen in Daten- und Metadatenmodellen für Archive, semantischen Technologien in Gedächtnisinstitutionen und der langfristigen Nutzbarhaltung digitaler Kulturgüter. Generell interessiert es mich, welchen Beitrag Archive zum Funktionieren von Zivilgesellschaft, politischen Systemen und Wirtschaft leisten und welche Rolle sie in digitalen Transformationsprozessen einnehmen.
+Professor für Archivwissenschaft an der [Fachhochschule Graubünden (FHGR),](https://www.fhgr.ch) unabhängiger Berater für digitale Archivierung und Informationsmanagement. Meine Forschungs- und Consultinginteressen liegen in Daten- und Metadatenmodellen für Archive, semantischen Technologien in Gedächtnisinstitutionen und der langfristigen Nutzbarhaltung digitaler Kulturgüter. Generell interessiert es mich, welchen Beitrag Archive zum Funktionieren von Zivilgesellschaft, politischen Systemen und Wirtschaft leisten und welche Rolle sie in digitalen Transformationsprozessen einnehmen.
 
 [Biografie](#biografie) | [Publikationen](#publikationen) | [Präsentationen](#fachvorträge-weiterbildungen) 
 
 ## Kontakt
 **Mail:** [tobias.wildi@fhgr.ch](mailto:tobias.wildi@fhgr.ch) \
+**Consulting:** [tobias.wildi@hultarp.org](mailto:tobias.wildi@hultarp.org) \
 **Twitter:** [@wildit](https://twitter.com/wildit) \
 **Linkedin:** [tobias-wildi](https://www.linkedin.com/in/tobias-wildi/) 
 
 
 ## Biografie
 ### Aus- und Weiterbildung
-- Weiterbildung in Hochschuldidaktik, CAS Universität Zürich (laufend, 2021-2023)
+- Weiterbildung in Hochschuldidaktik, CAS Universität Zürich (2021-2023)
 - Weiterbildung in IT-Architektur, CAS Zertifikatskurs HWZ (2020-2021)
 - Nachdiplomstudium für Archiv- und Informationswissenschaften in Lausanne (2004-2006)
 - Promotion an der Universität Zürich zum Dr. phil. (2002)
@@ -18,7 +19,7 @@ Dozent für Archivwissenschaft an der [Fachhochschule Graubünden (FHGR),](https
 
 ### Berufliche Tätigkeiten
 - **seit 2023: Unabhängiger Berater** für digitale Archivierung und Informationsmanagement
-- **seit 2021: [Fachhochschule Graubünden (FHGR)](https://www.fhgr.ch) Dozent für Archivwissenschaft** 
+- **seit 2021: [Fachhochschule Graubünden (FHGR)](https://www.fhgr.ch) Professor für Archivwissenschaft** 
 - **seit 2021: [docuteam AG,](https://www.docuteam.ch) Verwaltungsratspräsident** 
 - **2003–2020: [docuteam AG,](https://www.docuteam.ch) Mitbegründer und Geschäftsführer,** tätig als Unternehmer, Fachexperte und Projektleiter. Docuteam beschäftigt heute knapp 40 Mitarbeitende an zwei Standorten in der Deutsch- und Westschweiz und gehört zu den führenden Archivdienstleistern in der Schweiz. Die Open Source-Lösung «docuteam cosmos» für digitale Langzeitarchivierung wird in der ganzen Schweiz und im umliegenden Ausland verwendet
 - **1999–2002	ETH Zürich, Institut für Technikgeschichte.** Doktorand
