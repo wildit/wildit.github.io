@@ -43,9 +43,11 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ### Aufsätze und Studien (Auswahl)
+Preproject ‘Swiss Virtual Natural History Collection’. In: Database, Volume 2023, 2023, baad072, [https://doi.org/10.1093/database/baad072](https://doi.org/10.1093/database/baad072). Published: 31 October 2023. (together with Ana Petrus, Stefanie Müller).
+
 [*Die Erweiterung des Provenienzprinzips: Der neue Records in Contexts-Standard.*](https://zenodo.org/record/8245548) In: ARCHIV. theorie & praxis, 76. Jahrgang, Heft 03, Juli 2023, 166-173.
 
-[*Swiss Virtual Natural History Collection (SVNHC).*](https://www.fhgr.ch/fileadmin/fhgr/ueber_die_fhgr/wofuer_stehen_wir/strategische_initiativen/digitalisierung/digital_transformation_space/Digital-Transformation-Space-Digitale-Transformation-an-der-Fachhochschule-Graubuenden.pdf) In: Digitale Transformation an der Fachhochschule Graubünden. Case Studies aus Forschung und Lehre. Chur 2022, 119-124. (zusammen mit Stefanie Müller und Ana Petrus)
+[*Swiss Virtual Natural History Collection (SVNHC).*](https://www.fhgr.ch/fileadmin/fhgr/ueber_die_fhgr/wofuer_stehen_wir/strategische_initiativen/digitalisierung/digital_transformation_space/Digital-Transformation-Space-Digitale-Transformation-an-der-Fachhochschule-Graubuenden.pdf) In: Digitale Transformation an der Fachhochschule Graubünden. Case Studies aus Forschung und Lehre. Chur 2022, 119-124. (zusammen mit Stefanie Müller und Ana Petrus).
 
 [*From MARCXML to Records in Contexts (RiC) – a configurable mapping pipeline.*](https://zenodo.org/record/7400442) Documentation of the SWITCH Innovation Lab [“Linked Archival Ontology and Pipeline”.](https://www.switch.ch/de/stories/Making-archive-data-usable/) 2022.
 
@@ -77,6 +79,10 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ## Fachvorträge, Weiterbildungen
+[RiC-O 1.0 as a technical framework for implementing RiC and producing Linked Data](https://zenodo.org/records/10077334). Referat im Rahmen der ICA International Council on Archives Conference Abu Dhabi, 10.10.2023.
+
+*Hybrid archives. Describing Records in Contexts.* Workshop im Rahmen der ICA International Council on Archives Conference Abu Dhabi 2023, 9.10.2023. (with Regine Heberlein, Bogdan-Florin Popovici).
+
 [*Archiving by Contextuality: the example of "Wing Commander".*](https://zenodo.org/record/8109070) Präsentation im Rahmen der Tagung «Games & Literature. Zur Literarizität, Erforschung, Sammlung und Archivierung von Computerspielen». Deutsches Literaturarchiv Marbach, 29.6.2023
 
 Hauptreferent (zusammen mit Achim Korres) 98. VdW-Lehrgang Elektronische Langzeitarchivierung: Praxisanforderungen — Erste Schritte — Perspektiven. Heidelberg (D), 25.-28. Juni 2023.
