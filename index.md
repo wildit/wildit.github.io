@@ -43,6 +43,8 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ### Aufsätze und Studien (Auswahl)
+*Überlegungen zur Archivierung und langfristigen Nutzbarhaltung von Fachapplikationen.* Working Paper im Rahmen eines Projekts für das Schweizerische Bundesarchiv, [https://zenodo.org/records/12697290](https://zenodo.org/records/12697290).
+
 *Preproject ‘Swiss Virtual Natural History Collection’.* In: Database, Volume 2023, 2023, baad072, [https://doi.org/10.1093/database/baad072](https://doi.org/10.1093/database/baad072). Published: 31 October 2023. (together with Ana Petrus, Stefanie Müller).
 
 [*Die Erweiterung des Provenienzprinzips: Der neue Records in Contexts-Standard.*](https://zenodo.org/record/8245548) In: ARCHIV. theorie & praxis, 76. Jahrgang, Heft 03, Juli 2023, 166-173.
