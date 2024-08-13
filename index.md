@@ -12,7 +12,7 @@ Senior Consultant für digitale Archivierung und Informationsmanagement bei [doc
 ## Biografie
 
 ### Berufliche Tätigkeiten
-- **seit 2024: [docuteam AG,](https://www.docuteam.ch) Senior Consultant und Verwaltungsratspräsident.** docuteam ist ein führender Archivdienstleister in der Schweiz und bietet konzeptionelle Beratung, praktische Archivierung und Lösungen für die digitale Langzeitarchivierung an.
+- **seit 2024: [docuteam AG,](https://www.docuteam.ch) Senior Consultant und VR-Präsident.** docuteam ist ein führender Archivdienstleister in der Schweiz und bietet konzeptionelle Beratung, praktische Archivierung und Lösungen für die digitale Langzeitarchivierung an.
 - **seit 2024: Unabhängiger Dozent, Trainer, Lehrbeauftragter** für digitale Archivierung, Records Management und Informationsmanagement, unter anderem im Bachelor-Studiengang Information Science der Fachhochschule Graubünden.
 - **2021-2024: [Fachhochschule Graubünden (FHGR)](https://www.fhgr.ch) Professor für Archivwissenschaft** 
 - **2003–2020: [docuteam AG,](https://www.docuteam.ch) Mitbegründer und Geschäftsführer,** tätig als Unternehmer, Fachexperte und Projektleiter.
