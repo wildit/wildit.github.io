@@ -84,7 +84,7 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 ## Fachvorträge, Weiterbildungen
 [Minimalstandard für die Sicherheit der Informations- und Kommunikationstechnologie (IKT) digitaler Kulturgüter](https://memoriav.ch/wp-content/uploads/2024/07/WILDI_FachtagungMemoriav2024.pdf). Referat im Rahmen der Memoriav Fachtagung. Bern, 26.6.2024.
 
-Podiumsdiskussion im Rahmen der Veranstaltung [“Chatten mit Quellen? Der Einsatz von KI in Archiven”](https://www.infoclio.ch/de/chatten-mit-quellen-der-einsatz-von-ki-archiven) an der ETH Zürich. Jubiläumsveranstaltung des Hochschularchivs der ETH Zürich. 23.5.2025.
+Podiumsdiskussion im Rahmen der Veranstaltung [“Chatten mit Quellen? Der Einsatz von KI in Archiven”]([https://www.infoclio.ch/de/chatten-mit-quellen-der-einsatz-von-ki-archiven](https://library.ethz.ch/news-und-kurse/veranstaltungen/event-detail.chatten-mit-quellen-der-einsatz-von-ki-in-archiven.71222.html)) an der ETH Zürich. Jubiläumsveranstaltung des Hochschularchivs der ETH Zürich, 23.5.2025.
 
 [RiC-O 1.0 as a technical framework for implementing RiC and producing Linked Data](https://zenodo.org/records/10077334). Referat im Rahmen der ICA International Council on Archives Conference Abu Dhabi, 10.10.2023.
 
