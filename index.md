@@ -82,13 +82,13 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ## Fachvorträge, Weiterbildungen
-[Minimalstandard für die Sicherheit der Informations- und Kommunikationstechnologie (IKT) digitaler Kulturgüter](https://memoriav.ch/wp-content/uploads/2024/07/WILDI_FachtagungMemoriav2024.pdf). Referat im Rahmen der Memoriav Fachtagung. Bern, 26.6.2024.
+*[Minimalstandard für die Sicherheit der Informations- und Kommunikationstechnologie (IKT) digitaler Kulturgüter](https://memoriav.ch/wp-content/uploads/2024/07/WILDI_FachtagungMemoriav2024.pdf).* Referat im Rahmen der Memoriav Fachtagung. Bern, 26.6.2024.
 
 Podiumsdiskussion im Rahmen der Veranstaltung [“Chatten mit Quellen? Der Einsatz von KI in Archiven”](https://library.ethz.ch/news-und-kurse/veranstaltungen/event-detail.chatten-mit-quellen-der-einsatz-von-ki-in-archiven.71222.html) an der ETH Zürich. Jubiläumsveranstaltung des Hochschularchivs der ETH Zürich, 23.5.2024.
 
-Kontextualität erzeugen: Games archivieren am Beispiel von "Wing Commander". Referat im Rahmen der Ringvorlesung "Game Studies", Universität Bern, 4.12.2024.
+*Kontextualität erzeugen: Games archivieren am Beispiel von "Wing Commander".* Referat im Rahmen der Ringvorlesung "Game Studies", Universität Bern, 4.12.2024.
 
-[RiC-O 1.0 as a technical framework for implementing RiC and producing Linked Data](https://zenodo.org/records/10077334). Referat im Rahmen der ICA International Council on Archives Conference Abu Dhabi, 10.10.2023.
+*[RiC-O 1.0 as a technical framework for implementing RiC and producing Linked Data](https://zenodo.org/records/10077334).* Referat im Rahmen der ICA International Council on Archives Conference Abu Dhabi, 10.10.2023.
 
 *Hybrid archives. Describing Records in Contexts.* Workshop im Rahmen der ICA International Council on Archives Conference Abu Dhabi 2023, 9.10.2023. (with Regine Heberlein, Bogdan-Florin Popovici).
 
