@@ -84,7 +84,9 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 ## Fachvorträge, Weiterbildungen
 [Minimalstandard für die Sicherheit der Informations- und Kommunikationstechnologie (IKT) digitaler Kulturgüter](https://memoriav.ch/wp-content/uploads/2024/07/WILDI_FachtagungMemoriav2024.pdf). Referat im Rahmen der Memoriav Fachtagung. Bern, 26.6.2024.
 
-Podiumsdiskussion im Rahmen der Veranstaltung [“Chatten mit Quellen? Der Einsatz von KI in Archiven”](https://library.ethz.ch/news-und-kurse/veranstaltungen/event-detail.chatten-mit-quellen-der-einsatz-von-ki-in-archiven.71222.html) an der ETH Zürich. Jubiläumsveranstaltung des Hochschularchivs der ETH Zürich, 23.5.2025.
+Podiumsdiskussion im Rahmen der Veranstaltung [“Chatten mit Quellen? Der Einsatz von KI in Archiven”](https://library.ethz.ch/news-und-kurse/veranstaltungen/event-detail.chatten-mit-quellen-der-einsatz-von-ki-in-archiven.71222.html) an der ETH Zürich. Jubiläumsveranstaltung des Hochschularchivs der ETH Zürich, 23.5.2024.
+
+Kontextualität erzeugen: Games archivieren am Beispiel von "Wing Commander". Referat im Rahmen der Ringvorlesung "Game Studies", Universität Bern, 4.12.2024.
 
 [RiC-O 1.0 as a technical framework for implementing RiC and producing Linked Data](https://zenodo.org/records/10077334). Referat im Rahmen der ICA International Council on Archives Conference Abu Dhabi, 10.10.2023.
 
@@ -168,7 +170,7 @@ KOST-Kolloquium Konzeptionelles Modell für Archivinformationssysteme. Input zu 
 
 Der «Digital Turn» im Unternehmensarchiv: pragmatisch und mit beschränkten Ressourcen. Vortrag im Rahmen des 86. Lehrgang der Vereinigung deutscher Wirtschaftsarchivare: Einführung in das Wirtschaftsarchivwesen: Einsteigen – Aufsteigen – Auffrischen. Basel, 4.10.2017.
 
-Le Matterhorn RDF Data Model : Implémentation des modèles d’information OAIS et RiC dans le cadre des technologies sémantiques. Vortrag im Rahmen des Forum des archivistes genevois : Records in Context, nouvelle mouture des normes de description archivistique du Conseil International des Archives. En théorie et en pratique. Genf, 11.9.2017 (mit Alain Dubois).
+Le Matterhorn RDF Data Model : Implémentation des modèles d’information OAIS et RiC dans le cadre des technologies sémantiques. Vortrag im Rahmen des Forum des archivistes genevois : Records in Context, nouvelle mouture des normes de description archivistique du Conseil International des Archives. En théorie et en pratique. Genf, 11.9.2017 (zusammen mit Alain Dubois).
 
 Kostenmodelle für digitale Archivierung – Theoretische Modelle und Praxiserfahrung. Vortrag im Rahmen der 21. Tagung des Arbeitskreises Archivierung von Unterlagen aus digitalen Systemen. Staatsarchiv Basel, 28.2.2017.
 
@@ -177,6 +179,8 @@ Podiumsdiskussion im Rahmen der Veranstaltung "Geschichte in der Praxis" an der 
 Pour une amélioration de la description archivistique. Insertion dans un réseau ouvert de connaissances par le biais des métadonnées. Vortrag im Rahmen des Forum des archivistes français «meta/morphoses: les archives, bouillons de culture numérique». Troyes, 1.4.2016 (zusammen mit Frédéric Noyer).
 
 A-t-on encore besoin d’archivistes? Unser Berufsbild im Wandel, Input an der VSA-Fachtagung. Porrentruy, 11.9.2015.
+
+La stratégie de préservation numérique du Service de la culture -- préserver le patrimoine du canton du Valais (CH) pour mieux le valoriser sur le Web. Referat im Rahmen der ICA International Council on Archives Conference Girona, 15.10.2014 (zusammen mit Alain Dubois).
 
 Digitale Langzeitarchivierung in der Praxis am Beispiel zweier Schweizer Hochschulen. Vortrag im Rahmen der Frühjahrstagung der Fachgruppe 8 (Universitätsarchive) im VdA. Berlin, 20.3.2014.
 
