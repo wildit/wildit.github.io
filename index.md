@@ -58,7 +58,7 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 [*Honorar oder Lohn? Vielfältige Betreuungsmodelle fördern die Resilienz von Wirtschaftsarchiven.*](https://zenodo.org/record/4945505) In: Archiv und Wirtschaft, Zeitschrift für das Archivwesen der Wirtschaft. 2021, Heft 1, 24-30.
 
-[*Ein Bergungsort für digitale Kulturgüter.*](https://www.babs.admin.ch/content/babs-internet/de/aufgabenbabs/kgs/prints/_jcr_content/contentPar/accordion/accordionItems/kgs_forum/accordionPar/downloadlist/downloadItems/21_1604391088920.download/Barrierefrei_Forum35_d.pdf) Langfristiger Schutz für eine neue Kategorie des kulturellen Erbes. In: KGS forum Nr. 35/2021, 17–22.
+[*Ein Bergungsort für digitale Kulturgüter.*](https://backend.babs.admin.ch/fileservice/sdweb-docs-prod-babsch-files/files/2023/12/12/cf8dfb3e-b733-4fa3-a91d-79d749c7e904.pdf) Langfristiger Schutz für eine neue Kategorie des kulturellen Erbes. In: KGS forum Nr. 35/2021, 17–22.
 
 *Preproject “Swiss Virtual Natural History Collection” (SVNHC).* Report mandated by Swiss Academy of Sciences (SCNAT). 2021. (together with Ana Petrus).
 
