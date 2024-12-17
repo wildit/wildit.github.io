@@ -44,6 +44,8 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ### Aufsätze und Studien (Auswahl)
+*Minimalstandard für die Sicherheit der Informations- und Kommunikationstechnologie (IKT) digitaler Kulturgüter.* Hg. Bundesamt für Bevölkerungsschutz BABS, Fachgruppe Kulturgüterschutz. 2024. [https://www.bwl.admin.ch/bwl/de/home/bereiche/ikt/ikt_minimalstandard/ikt_branchenstandards/digitale-kulturgueter.html](https://www.bwl.admin.ch/bwl/de/home/bereiche/ikt/ikt_minimalstandard/ikt_branchenstandards/digitale-kulturgueter.html)
+
 *Überlegungen zur Archivierung und langfristigen Nutzbarhaltung von Fachapplikationen.* Working Paper im Rahmen des Projekts "Von SIARD zu Linked Data" für das Schweizerische Bundesarchiv, Juli 2024. [https://doi.org/10.5281/zenodo.12697290](https://doi.org/10.5281/zenodo.12697290).
 
 *Preproject ‘Swiss Virtual Natural History Collection’.* In: Database, Volume 2023, 2023, baad072, [https://doi.org/10.1093/database/baad072](https://doi.org/10.1093/database/baad072). Published: 31 October 2023. (together with Ana Petrus, Stefanie Müller).
@@ -82,11 +84,17 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ## Fachvorträge, Weiterbildungen
+*Records in Contexts (RiC) – Einführung in den neuen Standard für Archive.* Online-Gastvortrag Archivschule Marburg im 58. wissenschaftlichen Lehrgang. 29.11.2024.
+
+*Was bedeutet die Datafizierung für die Archivierung?* Referat im Rahmen der VZGV Fachtagung ICT / Bau und Umwelt "Information wird digital". Zürich, 13.11.2024.
+
+*Developing “docuteam context”, a new Archival Information System Based on Records in Contexts (RiC).* Referat im Rahmen des DLM Forum Budapest, 5.11.2024. [https://doi.org/10.5281/zenodo.14504893](https://doi.org/10.5281/zenodo.14504893).
+
 *[Minimalstandard für die Sicherheit der Informations- und Kommunikationstechnologie (IKT) digitaler Kulturgüter](https://memoriav.ch/wp-content/uploads/2024/07/WILDI_FachtagungMemoriav2024.pdf).* Referat im Rahmen der Memoriav Fachtagung. Bern, 26.6.2024.
 
 Podiumsdiskussion im Rahmen der Veranstaltung [“Chatten mit Quellen? Der Einsatz von KI in Archiven”](https://library.ethz.ch/news-und-kurse/veranstaltungen/event-detail.chatten-mit-quellen-der-einsatz-von-ki-in-archiven.71222.html) an der ETH Zürich. Jubiläumsveranstaltung des Hochschularchivs der ETH Zürich, 23.5.2024.
 
-*Kontextualität erzeugen: Games archivieren am Beispiel von "Wing Commander".* Referat im Rahmen der Ringvorlesung "Game Studies", Universität Bern, 4.12.2024.
+*Kontextualität erzeugen: Games archivieren am Beispiel von "Wing Commander".* Referat im Rahmen der Ringvorlesung "Game Studies", Universität Bern, 4.12.2023.
 
 *[RiC-O 1.0 as a technical framework for implementing RiC and producing Linked Data](https://zenodo.org/records/10077334).* Referat im Rahmen der ICA International Council on Archives Conference Abu Dhabi, 10.10.2023.
 
