@@ -92,6 +92,8 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 *[Minimalstandard für die Sicherheit der Informations- und Kommunikationstechnologie (IKT) digitaler Kulturgüter](https://memoriav.ch/wp-content/uploads/2024/07/WILDI_FachtagungMemoriav2024.pdf).* Referat im Rahmen der Memoriav Fachtagung. Bern, 26.6.2024.
 
+*Einführung in die Theorie und Praxis der digitalen Archivierung.* Eintägige Weiterbildung für Bibliosuisse. Aarau, 24.5.2024.
+
 Podiumsdiskussion im Rahmen der Veranstaltung [“Chatten mit Quellen? Der Einsatz von KI in Archiven”](https://library.ethz.ch/news-und-kurse/veranstaltungen/event-detail.chatten-mit-quellen-der-einsatz-von-ki-in-archiven.71222.html) an der ETH Zürich. Jubiläumsveranstaltung des Hochschularchivs der ETH Zürich, 23.5.2024.
 
 *Kontextualität erzeugen: Games archivieren am Beispiel von "Wing Commander".* Referat im Rahmen der Ringvorlesung "Game Studies", Universität Bern, 4.12.2023.
