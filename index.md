@@ -5,8 +5,8 @@ Senior Consultant für digitale Archivierung und Informationsmanagement bei [doc
 ## Kontakt
 **Consulting:** [t.wildi@docuteam.ch](mailto:t.wildi@docuteam.ch) \
 **Teaching:** [tobias.wildi@hultarp.org](mailto:tobias.wildi@hultarp.org) \
-**Twitter:** [@wildit](https://twitter.com/wildit) \
-**Linkedin:** [tobias-wildi](https://www.linkedin.com/in/tobias-wildi/) 
+**Linkedin:** [tobias-wildi](https://www.linkedin.com/in/tobias-wildi/) \
+**Treffen vereinbaren:** [Bookings](https://outlook.office.com/bookwithme/user/2e9a7b55098d4d7ea288efbb563c78f7@docuteam.ch?anonymous&ep=plink) 
 
 
 ## Biografie
