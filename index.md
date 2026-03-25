@@ -1,30 +1,31 @@
 Senior consultant at docuteam for digital preservation and information management. Lecturer and trainer in digital archiving, records management and information management. My research and consulting interests sit at the intersection of archival science and technology: designing data and metadata models, applying semantic technologies in memory institutions, and shaping infrastructures that ensure long-term preservation of digital cultural heritage. More generally, I am interested in the contribution archives make to the functioning of society, democracy and the economy, and how they support digital transformation processes.
 
-[Biography](## Biography) | [Publications](## Publications) | [Presentations](## Presentations and Teaching) 
+[Biography](#biography) | [Publications](#publications) | [Presentations](#presentations-and-teaching) 
 
-## Kontakt
+## Contact
 **Consulting:** [t.wildi@docuteam.ch](mailto:t.wildi@docuteam.ch) \
 **Teaching:** [tobias.wildi@hultarp.org](mailto:tobias.wildi@hultarp.org) \
 **Linkedin:** [tobias-wildi](https://www.linkedin.com/in/tobias-wildi/) \
-**Termin vereinbaren:** [Bookings](https://outlook.office.com/bookwithme/user/2e9a7b55098d4d7ea288efbb563c78f7@docuteam.ch?anonymous&ep=plink) 
+**Book an appointmeht:** [Bookings](https://outlook.office.com/bookwithme/user/2e9a7b55098d4d7ea288efbb563c78f7@docuteam.ch?anonymous&ep=plink) 
 
 
 ## Biography
 
-### Berufliche Tätigkeiten
-- **seit 2024: [docuteam AG,](https://www.docuteam.ch) Senior Consultant und VR-Präsident.** docuteam ist ein führender Archivdienstleister in der Schweiz und bietet konzeptionelle Beratung, praktische Archivierung und Lösungen für die digitale Langzeitarchivierung an.
-- **seit 2024: Unabhängiger Dozent, Trainer, Lehrbeauftragter** für digitale Archivierung, Records Management und Informationsmanagement, unter anderem im Bachelor-Studiengang Information Science der Fachhochschule Graubünden.
-- **2021-2024: [Fachhochschule Graubünden (FHGR)](https://www.fhgr.ch) Professor für Archivwissenschaft** 
-- **2003–2020: [docuteam AG,](https://www.docuteam.ch) Mitbegründer und Geschäftsführer,** tätig als Unternehmer, Fachexperte und Projektleiter.
-- **1999–2002	ETH Zürich, Institut für Technikgeschichte.** Doktorand
-- **1998–2000	Archiv für Zeitgeschichte** wissenschaftlicher Archivar und Informatiker
+### Experience
+- **Since 2024: [docuteam AG,](https://www.docuteam.ch) Senior Consultant and Chairman.** docuteam is a leading archiving service provider in Switzerland, offering strategic consulting, practical archiving services and software for long-term digital preservation.
+- **Since 2024: Lecturer and trainer** in digital preservation, records management and information management on undergraduate and postgraduate programmes at various academic institutions.
+- **2021-2024: Full Professor for archival studies** at the [Fachhochschule Graubünden (FHGR)](https://www.fhgr.ch) (Switzerland).
+- **2003–2020: [docuteam AG,](https://www.docuteam.ch) Co-founder and Managing Director,** working as an entrepreneur, domain expert and project manager.
+- **1999–2002	ETH Zürich, Institut für Technikgeschichte.** PhD student
+- **1998–2000	Archiv für Zeitgeschichte** research archivist and IT specialist
 
-### Aus- und Weiterbildung
-- Weiterbildung in Hochschuldidaktik, CAS Universität Zürich (2021-2023)
-- Weiterbildung in IT-Architektur, CAS Zertifikatskurs HWZ (2020-2021)
-- Nachdiplomstudium für Archiv- und Informationswissenschaften in Lausanne (2004-2006)
-- Promotion an der Universität Zürich zum Dr. phil. (2002)
-- Studium in Zürich und Lausanne, Geschichte, Politikwissenschaft und Informatik (1993-1999)
+### Education
+- Certified Board Member, CAS Verwaltungsrat Rochester Institute Universität Bern (2024-2025)
+- CAS in Higher Education, University of Zurich (2021-2023)
+- IT Architecture (CAS) -- Enterprise- and Software Architecture, HWZ (2020-2021)
+- Nachdiplomstudium für Archiv- und Informationswissenschaften, Universität Lausanne (2004-2006)
+- PhD from the University of Zurich (2002)
+- lic. phil. Universities of Zurich and Lausanne, specialising in history, political science and computer science (1993-1999)
 
 ### Engagements in Fachgremien
 - **Seit 2019:** Mitglied der Experts Group on Archival Description (EGAD) des International Council on Archives (ICA). Innerhalb der EGAD arbeite ich an der Entwicklung der neuen Records in Contexts-Ontologie (RiC-O).
