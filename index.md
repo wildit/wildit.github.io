@@ -85,7 +85,17 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ## Presentations and Teaching
-*Records in Contexts and PREMIS – two Standards towards a Dual Data Ethics.* Presentation at the ICA International Council on Archives Conference Barcelona 2025, 29.10.2026.
+*Implementing the E-ARK CSIP with Linked Data: PREMIS and Records in Contexts.* Presentation at the DLM Forum Berne. 25.3.2026.
+
+*"docuteam context": Wie entwickelt man ein neues AIS für Records in Contexts?* Gastreferat Fachhochschule Potsdam. 5.1.2026.
+
+*Archival Description, Records in Contexts and ISAD-G.* Training module at the Qatar National Library, Doha. 2.-3.12.2025.
+
+*A Swiss Risk-Based Modular Standard for ICT Security of Digital Cultural Heritage.* Presentation at the DLM Forum Copenhagen. 4.11.2025.
+
+*Records in Contexts and PREMIS – two Standards towards a Dual Data Ethics.* Presentation at the ICA International Council on Archives Conference Barcelona 2025, 29.10.2025.
+
+*Come and Play with RiC! A Card Game to Discover Records in Contexts Conceptual Model (RiC-CM).* Workshop at the ICA International Council on Archives Conference Barcelona 2025, 27.10.2025. Together with Florence Clavaud, Elisa García Prieto, Bogdan‐Florin Popovici, Zdenka Semlic Rajh, Rawad Bou Malhab, Jamie Lee
 
 *Werkzeuge und Workflows für KI-unterstützte Erschliessung und VermittlungHistorisches Archiv ABB Schweiz.* Referat im Rahmen des VSA Weiterbildungskurses "KI im Unternehmensarchiv". 23.10.2025
 
