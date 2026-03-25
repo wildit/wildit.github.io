@@ -27,7 +27,7 @@ Senior consultant at [docuteam,](https://www.docuteam.ch) (Switzerland) for digi
 - Doctorate (Dr. phil.) at the University of Zurich (2002)
 - Master (lic. phil.) at the Universities of Zurich and Lausanne, specialising in history, political science and computer science (1993-1999)
 
-### Engagements in Fachgremien
+### Committee work
 - **Since 2019:** Member of the Experts Group on Archival Description (EGAD) of the International Council on Archives (ICA). Within EGAD, I am working on the development of the Records in Contexts ontology (RiC-O).
 - **Since 2016:** Association of Swiss Archivists, member of the 'Norms and Standards' working group, chairman of the group since 2023.
 - **2012–2023:** Member of the Swiss Federal Commission for the Protection of Cultural Heritage, 2016–2023 chairman.
@@ -85,6 +85,16 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ## Presentations and Teaching
+*Records in Contexts and PREMIS – two Standards towards a Dual Data Ethics.* Presentation at the ICA International Council on Archives Conference Barcelona 2025, 29.10.2026.
+
+*Werkzeuge und Workflows für KI-unterstützte Erschliessung und VermittlungHistorisches Archiv ABB Schweiz.* Referat im Rahmen des VSA Weiterbildungskurses "KI im Unternehmensarchiv". 23.10.2025
+
+*Records in Contexts(RiC) – Einführung in den neuen Standard für Archive.* Gastvorlesung Archivschule Marburg, 59. Jahrgang. 22.10.2025.
+
+*Basiswissen Gemeindekanzlei: Archiv analog und digital.* Weiterbildung für Gemeindekanzleien, ipm Institut für Public Management. 10.9.2025.
+
+*Elektrizität und die Industriestadt Baden.* Gastvorlesung FHNW Wirtschaft der Schweiz –- gestern und heute. 1.4.2025
+
 *Records in Contexts (RiC) – Einführung in den neuen Standard für Archive.* Online-Gastvortrag Archivschule Marburg im 58. wissenschaftlichen Lehrgang. 29.11.2024.
 
 *Was bedeutet die Datafizierung für die Archivierung?* Referat im Rahmen der VZGV Fachtagung ICT / Bau und Umwelt "Information wird digital". Zürich, 13.11.2024.
