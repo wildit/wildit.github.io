@@ -1,4 +1,4 @@
-Senior consultant at docuteam for digital preservation and information management. Lecturer and trainer in digital archiving, records management and information management. My research and consulting interests sit at the intersection of archival science and technology: designing data and metadata models, applying semantic technologies in memory institutions, and shaping infrastructures that ensure long-term preservation of digital cultural heritage. More generally, I am interested in the contribution archives make to the functioning of society, democracy and the economy, and how they support digital transformation processes.
+Senior consultant at [docuteam,](https://www.docuteam.ch) (Switzerland) for digital preservation and information management. Lecturer and trainer in digital archiving, records management and information management. My research and consulting interests sit at the intersection of archival science and technology: designing data and metadata models, applying semantic technologies in memory institutions, and shaping infrastructures that ensure long-term preservation of digital cultural heritage. More generally, I am interested in the contribution archives make to the functioning of society, democracy and the economy, and how they support digital transformation processes.
 
 [Biography](#biography) | [Publications](#publications) | [Presentations](#presentations-and-teaching) 
 
@@ -20,19 +20,19 @@ Senior consultant at docuteam for digital preservation and information managemen
 - **1998–2000	Archiv für Zeitgeschichte** research archivist and IT specialist
 
 ### Education
-- Certified Board Member, CAS Verwaltungsrat Rochester Institute Universität Bern (2024-2025)
-- CAS in Higher Education, University of Zurich (2021-2023)
-- IT Architecture (CAS) -- Enterprise- and Software Architecture, HWZ (2020-2021)
-- Nachdiplomstudium für Archiv- und Informationswissenschaften, Universität Lausanne (2004-2006)
-- PhD from the University of Zurich (2002)
-- lic. phil. Universities of Zurich and Lausanne, specialising in history, political science and computer science (1993-1999)
+- CAS Board of Directors, University of Bern (2024-2025)
+- CAS in Higher Education Didactics, University of Zurich (2021-2023)
+- CAS in Digital IT Architecture with specialisation in Enterprise and Software Architecture at the Zurich University of Applied Sciences (HWZ) (2020-2021)
+- Postgraduate studies in archive and information sciences, University of Lausanne (predecessor programme MAS-ALIS) (2004-2006)
+- Doctorate (Dr. phil.) at the University of Zurich (2002)
+- Master (lic. phil.) at the Universities of Zurich and Lausanne, specialising in history, political science and computer science (1993-1999)
 
 ### Engagements in Fachgremien
-- **Seit 2019:** Mitglied der Experts Group on Archival Description (EGAD) des International Council on Archives (ICA). Innerhalb der EGAD arbeite ich an der Entwicklung der neuen Records in Contexts-Ontologie (RiC-O).
-- **Seit 2016:** VSA, Mitglied der Arbeitsgruppe «Normen und Standards», seit 2023 Präsident.
-- **2012–2023:** Mitglied der Eidgenössischen Kommission für Kulturgüterschutz, 2016–2023 Präsident.
-- **2018–2021:** Mitglied der kantonalen Kulturgüterschutz-Kommission des Kantons Wallis.
-- **2011–2015:** VSA, Mitglied der Arbeitsgruppe «Archive der privaten Wirtschaft».
+- **Since 2019:** Member of the Experts Group on Archival Description (EGAD) of the International Council on Archives (ICA). Within EGAD, I am working on the development of the Records in Contexts ontology (RiC-O).
+- **Since 2016:** Association of Swiss Archivists, member of the 'Norms and Standards' working group, chairman of the group since 2023.
+- **2012–2023:** Member of the Swiss Federal Commission for the Protection of Cultural Heritage, 2016–2023 chairman.
+- **2018–2021:** Member of the Cantonal Commission for the Protection of Cultural Heritage of the Canton of Valais, Switzerland.
+- **2011–2015:** Association of Swiss Archivists, member of the working group 'Private Sectr Archives'.
 
 ## Publications
 
