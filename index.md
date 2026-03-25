@@ -1,6 +1,6 @@
-Senior Consultant für digitale Archivierung und Informationsmanagement bei [docuteam AG](https://www.docuteam.ch). Lehrbeauftragter für Archivwissenschaft an der [Fachhochschule Graubünden (FHGR)](https://www.fhgr.ch). Unabhängiger Trainer und Dozent für digitale Archivierung, Records Management und Informationsmanagement.  Meine Forschungs- und Consultinginteressen liegen in Daten- und Metadatenmodellen für Archive, semantischen Technologien in Gedächtnisinstitutionen und der langfristigen Nutzbarhaltung digitaler Kulturgüter. Generell interessiert es mich, welchen Beitrag Archive zum Funktionieren von Gesellschaft, Demokratie und Wirtschaft leisten und wie sie digitale Transformationsprozesse unterstützen.
+Senior consultant at docuteam for digital preservation and information management. Lecturer and trainer in digital archiving, records management and information management. My research and consulting interests sit at the intersection of archival science and technology: designing data and metadata models, applying semantic technologies in memory institutions, and shaping infrastructures that ensure long-term preservation of digital cultural heritage. More generally, I am interested in the contribution archives make to the functioning of society, democracy and the economy, and how they support digital transformation processes.
 
-[Biografie](#biografie) | [Publikationen](#publikationen) | [Präsentationen](#fachvorträge-weiterbildungen) 
+[Biography](#biografie) | [Publications](#publikationen) | [Presentations](#fachvorträge-weiterbildungen) 
 
 ## Kontakt
 **Consulting:** [t.wildi@docuteam.ch](mailto:t.wildi@docuteam.ch) \
@@ -9,7 +9,7 @@ Senior Consultant für digitale Archivierung und Informationsmanagement bei [doc
 **Termin vereinbaren:** [Bookings](https://outlook.office.com/bookwithme/user/2e9a7b55098d4d7ea288efbb563c78f7@docuteam.ch?anonymous&ep=plink) 
 
 
-## Biografie
+## Biography
 
 ### Berufliche Tätigkeiten
 - **seit 2024: [docuteam AG,](https://www.docuteam.ch) Senior Consultant und VR-Präsident.** docuteam ist ein führender Archivdienstleister in der Schweiz und bietet konzeptionelle Beratung, praktische Archivierung und Lösungen für die digitale Langzeitarchivierung an.
@@ -33,9 +33,9 @@ Senior Consultant für digitale Archivierung und Informationsmanagement bei [doc
 - **2018–2021:** Mitglied der kantonalen Kulturgüterschutz-Kommission des Kantons Wallis.
 - **2011–2015:** VSA, Mitglied der Arbeitsgruppe «Archive der privaten Wirtschaft».
 
-## Publikationen
+## Publications
 
-### Monographien
+### Books
 *Company Town. BBC/ABB und die Industriestadt Baden.* Baden, 2016 (zusammen mit Bruno Meier).
 
 *IndustrieWelt. Historische Werkfotos der BBC 1890–1980.* Zürich 2006 (zusammen mit Norbert Lang).
@@ -43,7 +43,7 @@ Senior Consultant für digitale Archivierung und Informationsmanagement bei [doc
 Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection.ethz.ch/handle/20.500.11850/88080) Die schweizerische Atomtechnologieentwicklung 1945–1969. Zürich 2003.
 
 
-### Aufsätze und Studien (Auswahl)
+### Papers and Essays
 *Minimalstandard für die Sicherheit der Informations- und Kommunikationstechnologie (IKT) digitaler Kulturgüter.* Hg. Bundesamt für Bevölkerungsschutz BABS, Fachgruppe Kulturgüterschutz. 2024. [https://www.bwl.admin.ch/bwl/de/home/bereiche/ikt/ikt_minimalstandard/ikt_branchenstandards/digitale-kulturgueter.html](https://www.bwl.admin.ch/bwl/de/home/bereiche/ikt/ikt_minimalstandard/ikt_branchenstandards/digitale-kulturgueter.html)
 
 *Überlegungen zur Archivierung und langfristigen Nutzbarhaltung von Fachapplikationen.* Working Paper im Rahmen des Projekts "Von SIARD zu Linked Data" für das Schweizerische Bundesarchiv, Juli 2024. [https://doi.org/10.5281/zenodo.12697290](https://doi.org/10.5281/zenodo.12697290).
@@ -83,7 +83,7 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 *Unternehmensarchive nicht nur «retten», sondern umfassend nutzen.* In: Unternehmensarchive - ein Kulturgut? Beiträge zur Arbeitstagung Unternehmensarchive und Unternehmensgeschichte. Hg. Schweizerisches Wirtschaftsarchiv / VSA. Baden 2006, 38–44 (zusammen mit Andreas Steigmeier).
 
 
-## Fachvorträge, Weiterbildungen
+## Presentations and teaching
 *Records in Contexts (RiC) – Einführung in den neuen Standard für Archive.* Online-Gastvortrag Archivschule Marburg im 58. wissenschaftlichen Lehrgang. 29.11.2024.
 
 *Was bedeutet die Datafizierung für die Archivierung?* Referat im Rahmen der VZGV Fachtagung ICT / Bau und Umwelt "Information wird digital". Zürich, 13.11.2024.
