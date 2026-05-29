@@ -47,7 +47,7 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 ### Papers and Essays
 *Was digitale Archivierung und Digital Intelligence leisten.* In: Swiss IT Magazine 2026/05. [https://www.itmagazine.ch/artikel/87058/Was_digitale_Archivierung_und_Digital_Intelligence_leisten.html](https://www.itmagazine.ch/artikel/87058/Was_digitale_Archivierung_und_Digital_Intelligence_leisten.html)
 
-*Minimalstandard für die Sicherheit der Informations- und Kommunikationstechnologie (IKT) digitaler Kulturgüter.* Hg. Bundesamt für Bevölkerungsschutz BABS, Fachgruppe Kulturgüterschutz. 2024. [https://www.bwl.admin.ch/bwl/de/home/bereiche/ikt/ikt_minimalstandard/ikt_branchenstandards/digitale-kulturgueter.html](https://www.bwl.admin.ch/bwl/de/home/bereiche/ikt/ikt_minimalstandard/ikt_branchenstandards/digitale-kulturgueter.html)
+*Minimalstandard für die Sicherheit der Informations- und Kommunikationstechnologie (IKT) digitaler Kulturgüter.* Hg. Bundesamt für Bevölkerungsschutz BABS, Fachgruppe Kulturgüterschutz. 2024. [https://www.ncsc.admin.ch/dam/ncsc/de/dokumente/infos-unternehmen/ikt-minimalstandards/ikt-minmalstandard-digitale-kulturgueter-de.pdf.download.pdf/ikt-minmalstandard-digitale-kulturgueter-de.pdf](https://www.ncsc.admin.ch/dam/ncsc/de/dokumente/infos-unternehmen/ikt-minimalstandards/ikt-minmalstandard-digitale-kulturgueter-de.pdf.download.pdf/ikt-minmalstandard-digitale-kulturgueter-de.pdf)
 
 *Überlegungen zur Archivierung und langfristigen Nutzbarhaltung von Fachapplikationen.* Working Paper im Rahmen des Projekts "Von SIARD zu Linked Data" für das Schweizerische Bundesarchiv, Juli 2024. [https://doi.org/10.5281/zenodo.12697290](https://doi.org/10.5281/zenodo.12697290).
 
