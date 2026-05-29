@@ -45,6 +45,8 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ### Papers and Essays
+*Was digitale Archivierung und Digital Intelligence leisten.* In: Swiss IT Magazine 2026/05. [https://www.itmagazine.ch/artikel/87058/Was_digitale_Archivierung_und_Digital_Intelligence_leisten.html](https://www.itmagazine.ch/artikel/87058/Was_digitale_Archivierung_und_Digital_Intelligence_leisten.html)
+
 *Minimalstandard für die Sicherheit der Informations- und Kommunikationstechnologie (IKT) digitaler Kulturgüter.* Hg. Bundesamt für Bevölkerungsschutz BABS, Fachgruppe Kulturgüterschutz. 2024. [https://www.bwl.admin.ch/bwl/de/home/bereiche/ikt/ikt_minimalstandard/ikt_branchenstandards/digitale-kulturgueter.html](https://www.bwl.admin.ch/bwl/de/home/bereiche/ikt/ikt_minimalstandard/ikt_branchenstandards/digitale-kulturgueter.html)
 
 *Überlegungen zur Archivierung und langfristigen Nutzbarhaltung von Fachapplikationen.* Working Paper im Rahmen des Projekts "Von SIARD zu Linked Data" für das Schweizerische Bundesarchiv, Juli 2024. [https://doi.org/10.5281/zenodo.12697290](https://doi.org/10.5281/zenodo.12697290).
@@ -85,7 +87,9 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ## Presentations and Teaching
-*Implementing the E-ARK CSIP with Linked Data: PREMIS and Records in Contexts.* Presentation at the DLM Forum Berne. 25.3.2026.
+*docuteam context: A New Archival Information System Based on Records in Contexts (RiC).* Presentation at international archival conference in Radenci, Slovenia. 20.5.2026. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20438972.svg)](https://doi.org/10.5281/zenodo.20438972)
+
+*Implementing the E-ARK CSIP with Linked Data: PREMIS and Records in Contexts.* Presentation at the DLM Forum Berne. 25.3.2026. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19223763.svg)](https://doi.org/10.5281/zenodo.19223763)
 
 *"docuteam context": Wie entwickelt man ein neues AIS für Records in Contexts?* Gastreferat Fachhochschule Potsdam. 5.1.2026.
 
