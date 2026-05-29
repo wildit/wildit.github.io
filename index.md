@@ -87,7 +87,7 @@ Dissertation: [*Der Traum vom eigenen Reaktor.*](https://www.research-collection
 
 
 ## Presentations and Teaching
-*docuteam context: A New Archival Information System Based on Records in Contexts (RiC).* Presentation at international archival conference in Radenci, Slovenia. 20.5.2026. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20438972.svg)](https://doi.org/10.5281/zenodo.20438972)
+*docuteam context: A New Archival Information System Based on Records in Contexts (RiC).* Presentation at the International Archival Conference in Radenci, Slovenia. 20.5.2026. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20438972.svg)](https://doi.org/10.5281/zenodo.20438972)
 
 *Implementing the E-ARK CSIP with Linked Data: PREMIS and Records in Contexts.* Presentation at the DLM Forum Berne. 25.3.2026. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19223763.svg)](https://doi.org/10.5281/zenodo.19223763)
 
