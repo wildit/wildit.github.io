@@ -29,10 +29,10 @@ Senior consultant at [docuteam,](https://www.docuteam.ch) (Switzerland) for digi
 
 ### Committee work
 - **Since 2019:** Member of the Experts Group on Archival Description (EGAD) of the International Council on Archives (ICA). Within EGAD, I am working on the development of the Records in Contexts ontology (RiC-O).
-- **Since 2016:** Association of Swiss Archivists, member of the 'Norms and Standards' working group, chairman of the group since 2023.
+- **2016-2026:** Association of Swiss Archivists, member of the 'Norms and Standards' working group, chairman of the group 2023-2026.
 - **2012–2023:** Member of the Swiss Federal Commission for the Protection of Cultural Heritage, 2016–2023 chairman.
 - **2018–2021:** Member of the Cantonal Commission for the Protection of Cultural Heritage of the Canton of Valais, Switzerland.
-- **2011–2015:** Association of Swiss Archivists, member of the working group 'Private Sectr Archives'.
+- **2011–2015:** Association of Swiss Archivists, member of the working group 'Private Sector Archives'.
 
 ## Publications
 
